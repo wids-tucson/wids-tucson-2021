@@ -38,7 +38,7 @@ font_size: "M"
 site_type: "Course"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description: "Learn the basics of programming using the open source statistical program R, an interactive programming language for data science."
+description: "WiDS Tucson is an independent event organized by the University of Arizona to coincide with the annual Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS regional events, which features outstanding women doing outstanding work."
 
 
 ############################
@@ -50,14 +50,14 @@ description: "Learn the basics of programming using the open source statistical 
 highlight: false
 
 # Add support for highlighting additional languages
-highlight_languages: 
+highlight_languages:
   - r
 
 # highlight_style: "github-gist"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math: true
+math: false
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -71,7 +71,7 @@ privacy_pack: false
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
 edit_page:
-  repo_url: 'https://github.com/andrewheiss/evalsp21.classes.andrewheiss.com'
+  repo_url: 'https://github.com/wids-tucson/wids-tucson-2021'
   content_dir: ''
   repo_branch: master
   editable:
@@ -96,45 +96,29 @@ show_related:
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
 
-author: Kelsey Gonzalez
+author: WiDS Tucson
 
-instructor: 
-  name: Kelsey Gonzalez
-  email: KelseyGonzalez@American.edu
-  url: "https://kelseygonzalez.github.io"
-  twitter: KelseyEGonzalez
-  github: kelseygonzalez
-  contact_policy: >-
-    E-mail, message on Canvas, or set up a meeting for my student hours. I want to help you succeed!  
-  appointment_url: https://calendly.com/kelseygonzalez
+socials:
+  twitter: WidsTucson
+  github: "wids-tucson"
 
-course:
-  number: "STAT 412/612"
-  semester: "Spring 2021"
-  days: "M & Th"
-  time: "11:20 - 12:45 EST"
-  dates: "January 19–April 26, 2021"
-  github: "kelseygonzalez/AU-STAT412-612"
+event:
+  time: "8:00 - 5:00 Arizona Time"
+  dates: "April 21, 2021"
   copyrightYear: "2021"
-
-university: 
-  name: American University
-  url: "https://www.american.edu"
-
-school:
-  name: Department of Math & Statistics
-  url: "https://www.american.edu/cas/mathstat/"
-
+  year: "2021"
+  registerlink: eventbrite.com
+  sourcecode: "wids-tucson/wids-tucson-2021"
 
 ############################
 ## Social
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image: "hex-tidyverse.png"
+sharing_image: "wids-logo.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter: "KelseyEGonzalez"
+twitter: "WidsTucson"
 
 
 ############################
@@ -196,15 +180,6 @@ avatar:
   gravatar: false
   # Choose a shape for avatar images. Options: circle, square.
   shape: circle
-
-# Configuration of publication pages.
-publications:
-  # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format: January 2006
-
-  # Citation style ("apa" or "mla")
-  citation_style: apa
 
 # Configuration of project pages.
 projects:

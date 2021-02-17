@@ -1,38 +1,33 @@
 main:
-  - name: Syllabus
-    url: /syllabus/
+  - name: Register
+    url: https://www.eventbrite.com/
     weight: 1
-  - name: Schedule
+  - name: Program
     url: /schedule/
     weight: 2
-  - name: Materials
-    url: /material/
+  - name: Speakers
+    url: /sessions/
     weight: 3
-  - name: Assignments
-    url: /assignment/
+  - name: "Code of Conduct"
+    url: /conduct/
     weight: 4
-  - name: Resources
-    url: /resource/
+  - name: "Sponsors and Organizers"
+    url: /sponsors/
     weight: 5
 
-material:
-  - name: Overview
+sessions:
+  - name: Keynote
     weight: 1
-  - name: Lectures
+  - name: "Concurrent Speakers"
     weight: 2
-  - name: Readings
+  - name: "Data Blitz"
     weight: 3
-assignment:
-  - name: Assignments
-    weight: 1
-  - name: Final Project
-    weight: 2
-  - name: Labs
+  - name: Panels
     weight: 4
-  - name: Homework
+  - name: Networking
     weight: 5
-resource:
-  - name: Resources
+sponsors:
+  - name: Sponsors
     weight: 1
-  - name: Guides
+  - name: Organizers
     weight: 2
