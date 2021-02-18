@@ -17,7 +17,7 @@ lessons:
     main: "keynote"
     bg: 1
 
-  - title: 'Break'
+  - title: 'Transition Time'
     date: "9:45 - 9:50"
     bg: 2
 
@@ -38,12 +38,12 @@ lessons:
     main: "panel-1"
     bg: 1
 
-  - title: 'Networking'
+  - title: 'Concurrent Networking and Coffee Break'
     date: "10:40"
     network: "network-1"
     bg: 1
 
-  - title: 'Break'
+  - title: 'Transition Time'
     date: "11:10 - 11:15"
     bg: 2
 
@@ -77,7 +77,7 @@ lessons:
     room2: "rm2-talk-4"
     bg: 1
 
-  - title: 'Break'
+  - title: 'Transition Time'
     date: "2:00 - 2:05"
     bg: 2
 
@@ -86,12 +86,12 @@ lessons:
     main: "panel-2"
     bg: 1
 
-  - title: 'Networking'
+  - title: 'Concurrent Networking'
     date: "2:25"
     network: "network-2"
     bg: 1
 
-  - title: 'Break'
+  - title: 'Transition Time'
     date: "2:55 - 3:00"
     bg: 2
 

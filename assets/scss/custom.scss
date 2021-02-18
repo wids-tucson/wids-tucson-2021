@@ -1,13 +1,14 @@
 // Inferno colors
 // viridisLite::viridis(8, option = "inferno", begin = 0.1, end = 0.9)
 $colors: (
-    #3e1f47,  /* Dark purple */
-    #4d194d,  /* Purple */
-    #3e1f47,  /* links */
-    #1b3a4b,  /* teal submenus  */
-    #212f45,  /* dark teal unknown */
-    #144552,  /* teal */
-    #668a86   /* light Blue */
+    #007a33,  /* Dark green wids green*/
+    #535353,  /* dark grey, menu 2 */
+    #1E4A47,  /* links, random stuff */
+    #00491e,  /* dark green TOC  */
+    #535353,  /* , grey */
+    #007a33,  /*  med green, wids green*/
+    #00491e,   /* pre code  */ 
+    #7dc29a   /* menu 1 light wids green schedule*/
 );
 
 body {
@@ -154,7 +155,7 @@ footer p {
 }
 
 #TableOfContents {
-    background-color: lighten(nth($colors, 4), 35%);
+    background-color: lighten(nth($colors, 4), 20%);
     line-height: 1.2;
     padding-bottom: 0.5em;
 
@@ -257,7 +258,7 @@ footer p {
 .ical {
     font-size: 80%;
     text-align: center;
-    background-color: lighten(nth($colors, 5), 20%);
+    background-color: lighten(nth($colors, 1), 45%);
     padding: 0.1rem 0;
     margin-bottom: 2rem;
 }
@@ -285,17 +286,17 @@ td.mid-table-header {
 
 table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
-    background-color: #e5e5e5 !important;
+    background-color: #007a33 !important;
 }
 
 table.schedule tr.schedule-bg-1,
 table.schedule > tbody > tr.schedule-bg-1:nth-child(2n+1) > td {
-    background-color: lighten(nth($colors, 6), 45%);
+    background-color: lighten(nth($colors, 8), 20%);
 }
 
 table.schedule tr.schedule-bg-2,
 table.schedule>tbody>tr.schedule-bg-2:nth-child(2n+1)>td {
-    background-color: lighten(nth($colors, 2), 65%);
+    background-color: lighten(nth($colors, 2), 60%);
 }
 
 table.schedule tr.schedule-bg-3,

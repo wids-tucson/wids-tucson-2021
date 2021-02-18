@@ -13,8 +13,8 @@ hero_media: wids-logo.png
 design:
   background:
     # Background gradient
-    gradient_start: '#007a33'
-    gradient_end: '#1E4A47'
+    gradient_start: '#1E4A47'
+    gradient_end: '#007a33'
 
     # Text color (true=light or false=dark).
     text_color_light: true
