@@ -1,7 +1,7 @@
 [submodule "themes/hugo-academic"] 
   path = themes/hugo-academic 
-  url = github.com/evangelistalab/hugo-academic
+  url = https://github.com/evangelistalab/hugo-academic
     
 [submodule "themes/wowchemy-hugo-modules"] 
   path = path_to_submodule 
-  url = github.com/wowchemy/wowchemy-hugo-modules
+  url = https://github.com/wowchemy/wowchemy-hugo-modules
