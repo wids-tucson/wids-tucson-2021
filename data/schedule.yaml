@@ -2,18 +2,18 @@ lessons:
   - title: 'Morning Session'
     header: True
 
-  - title: 'Registration'
-    date: "8:30"
+  - title: 'Help Desk Opens'
+    date: "8:30 - 9:00"
     main: "main-01"
     bg: 1
 
-  - title: 'Opening Remarks'
-    date: "9:00"
+  - title: 'Opening Remarks & Video'
+    date: "9:00 - 9:15"
     main: "main-02"
     bg: 1
 
   - title: 'Keynote Speaker'
-    date: "9:15"
+    date: "9:15 - 9:45"
     main: "keynote"
     bg: 1
 
@@ -22,90 +22,87 @@ lessons:
     bg: 2
 
   - title: 'Concurrent Talks'
-    date: "9:50"
+    date: "9:50 - 10:05"
     room1: "rm1-talk-1"
     room2: "rm2-talk-1"
     bg: 1
 
   - title: 'Concurrent Talks'
-    date: "10:05"
+    date: "10:15 - 10:30"
     room1: "rm1-talk-2"
     room2: "rm2-talk-2"
     bg: 1
-
-  - title: 'Panel'
-    date: "10:20"
-    main: "panel-1"
-    bg: 1
-
-  - title: 'Concurrent Networking and Coffee Break'
-    date: "10:40"
-    network: "network-1"
-    bg: 1
-
+    
   - title: 'Transition Time'
-    date: "11:10 - 11:15"
+    date: "10:30 - 10:35"
     bg: 2
 
   - title: 'Morning Data Blitz'
-    date: "11:15"
+    date: "10:35 - 11:20"
     main: "data-blitz1"
+    bg: 1
+    
+  - title: 'AM Concurrent Panel Discussions'
+    date: "11:20 - 11:50"
+    room1: "panel-1a"
+    room2: "panel-1b"
+    bg: 1
+
+  - title: 'Concurrent Networking and Coffee Break'
+    date: "11:50 - 12:30"
+    network: "network-1"
     bg: 1
 
   - title: 'Lunch Break'
-    date: "12:15 - 1:00"
+    date: "12:30 - 1:00"
     bg: 2
     bottomborder: True
     
   - title: 'Afternoon Session'
     header: True
 
-  - title: 'Afternoon Data Blitz'
-    date: "1:00"
-    main: "data-blitz2"
-    bg: 1
-
   - title: 'Concurrent Talks'
-    date: "1:30"
+    date: "1:00 - 1:15"
     room1: "rm1-talk-3"
     room2: "rm2-talk-3"
     bg: 1
 
   - title: 'Concurrent Talks'
-    date: "1:45"
+    date: "1:20 - 1:35"
     room1: "rm1-talk-4"
     room2: "rm2-talk-4"
     bg: 1
+    
+  - title: 'Transition Time'
+    date: "1:40 - 1:45"
+    bg: 2
+    
+  - title: 'Afternoon Data Blitz'
+    date: "1:45 - 2:30"
+    main: "data-blitz2"
+    bg: 1
 
   - title: 'Transition Time'
-    date: "2:00 - 2:05"
+    date: "2:30 - 2:35"
     bg: 2
 
-  - title: 'Panel'
-    date: "2:05"
-    main: "panel-2"
+  - title: 'PM Concurent Panel Discussions'
+    date: "2:35 - 3:05"
+    room1: "panel-2a"
+    room2: "panel-2b"
     bg: 1
 
   - title: 'Concurrent Networking'
-    date: "2:25"
+    date: "3:05 - 3:45"
     network: "network-2"
     bg: 1
 
-  - title: 'Transition Time'
-    date: "2:55 - 3:00"
-    bg: 2
-
-  - title: 'Poster Session'
-    date: "3:00"
-    main: "posters"
-    bg: 1
-
-  - title: 'Poster Awards & Closing Remarks'
-    date: "3:45"
+  - title: 'Data Blitz Awards & Closing Remarks'
+    date: "3:50 - 4:05"
     main: "posterawards"
     bg: 1
 
   - title: 'Happy Hour'
-    date: "4:00"
+    date: "4:05"
     network: "happyhour"
     bg: 1
