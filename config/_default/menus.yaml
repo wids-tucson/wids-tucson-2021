@@ -1,6 +1,6 @@
 main:
   - name: Register
-    url: https://www.eventbrite.com/
+    url: "https://www.eventbrite.com/e/women-in-data-science-conference-university-of-arizona-tickets-142036283347"
     weight: 1
   - name: Program
     url: /schedule/
