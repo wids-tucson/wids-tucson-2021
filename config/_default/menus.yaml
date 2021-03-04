@@ -16,16 +16,18 @@ main:
     weight: 5
 
 sessions:
-  - name: Keynote
+  - name: "Overview"
     weight: 1
-  - name: "Concurrent Speakers"
+  - name: "Keynote"
     weight: 2
-  - name: "Data Blitz"
+  - name: "Concurrent Speakers"
     weight: 3
-  - name: Panels
+  - name: "Data Blitz"
     weight: 4
-  - name: Networking
+  - name: Panels
     weight: 5
+  - name: Networking
+    weight: 6
 sponsors:
   - name: Sponsors
     weight: 1

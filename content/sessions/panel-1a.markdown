@@ -1,6 +1,6 @@
 ---
 title: "Panel on X"
-linktitle: "Morning Panel"
+linktitle: "Morning Panel #1"
 date: "2021-01-21"
 menu:
   sessions:
