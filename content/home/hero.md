@@ -5,7 +5,7 @@ headless: true
 active: true
 weight: 10
 
-title: "2021 WiDS University of Arizona"
+title: "2021 WiDS Tucson"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media: wids-logo.png
