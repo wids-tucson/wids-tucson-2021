@@ -28,8 +28,3 @@ sessions:
     weight: 5
   - name: Networking
     weight: 6
-sponsors:
-  - name: Sponsors
-    weight: 1
-  - name: Organizers
-    weight: 2

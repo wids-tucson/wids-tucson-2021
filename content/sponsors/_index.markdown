@@ -1,8 +1,9 @@
 ---
-title: Assignment details
+title: Sponsors & Organizers
 menu:
   sponsors:
+      weight: 1
 type: docs
-toc: true
+toc: false
 weight: 1
 ---
