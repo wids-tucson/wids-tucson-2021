@@ -286,7 +286,13 @@ td.mid-table-header {
 
 table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
-    background-color: #007a33 !important;
+    background-color: #7dc29a !important;
+}
+
+table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
 }
 
 table.schedule tr.schedule-bg-1,
