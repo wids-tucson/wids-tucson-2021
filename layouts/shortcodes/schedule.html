@@ -6,9 +6,9 @@
         <tr
             class="{{- if .bottomborder }} section-bottom {{- end }}{{- if .header }} fake-header-table {{- end }}{{- if .bg }} schedule-bg-{{ .bg }} {{- end }}">
             <td align="right" style="width:20%;text-align:right">
-                <strong>{{ .date }}</strong>{{- if and (.session) (.date) }}<br>{{- end }}{{- if .session }}
-                <small>({{.session}})</small>{{- end }}</td>
-            <td style="width:56%;text-align:left">{{ .title | markdownify }}</td>
+                <strong>{{ .date }}</strong></td>
+            <td style="width:56%;text-align:left">{{ .title | markdownify }}
+                    {{- if .detail }}<br><small>{{.detail}}</small>{{- end }}</td>
 
             {{- if .header }}
             

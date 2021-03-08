@@ -15,6 +15,7 @@ lessons:
   - title: 'Keynote Speaker'
     date: "9:15 - 9:45"
     main: "keynote"
+    detail: "Leveraging Artificial Intelligence and Big Data to create Value"
     bg: 1
 
   - title: 'Transition Time'
