@@ -37,7 +37,7 @@ The phenomenal growth of social media, mobile  applications, sensor based techno
 </TD>
 </TR>
 <TR>
-<TD><i class="fab fa-external-link-alt"></i> <a href="https://mis.eller.arizona.edu/people/sudha-ram" target="_blank" rel="noopener">Website</a>
+<TD><i class="fa fa-link"></i> <a href="https://mis.eller.arizona.edu/people/sudha-ram" target="_blank" rel="noopener">Website</a>
 </TD>
 </TR>
 </TABLE>
