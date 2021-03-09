@@ -3,7 +3,6 @@ title: Code of Conduct
 menu:
   assignment:
     weight: 1
-type: docs
 date: "2021-03-08"
 toc: true
 weight: 1
