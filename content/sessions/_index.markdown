@@ -9,4 +9,4 @@ toc: false
 weight: 1
 ---
 
-Info about structure here
+Navigate through tabs on the left sidebar to find out more information on the speakers and their talks or panels. If you navigate to the Program tab on the top, you can see the talks listed in chronological order. 

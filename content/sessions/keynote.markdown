@@ -18,9 +18,9 @@ The phenomenal growth of social media, mobile  applications, sensor based techno
 
 
 
-<TABLE style="width:80%">
+<TABLE class="bio-table">
 <TR>
-<TD COLSPAN="2"><h1>Sudha Ram</h1></TD>
+<TD COLSPAN="2"><h2>Sudha Ram</h2></TD>
 <TD ROWSPAN="4"><img style="float: left;" src="https://appliedmath.arizona.edu/sites/default/files/styles/uaqs_medium/public/images/people/Ram_Sudha.jpg?itok=xjHPqvao" width="300" /></TD>
 </TR>
 <TR>

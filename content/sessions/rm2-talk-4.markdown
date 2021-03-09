@@ -1,11 +1,11 @@
 ---
-title: "Title of Talk #3"
-linktitle: "Concurrent Talk 2: Room 1"
+title: "Title of Talk #8"
+linktitle: "Concurrent Talk 4: Room 2"
 date: "2021-01-25"
 menu:
   sessions:
     parent: Concurrent Speakers
-    weight: 3
+    weight: 8
 type: docs
 toc: false
 editor_options:
@@ -18,7 +18,6 @@ Talk Abstract
 
 
 <hr style="width: 100%; text-align: center; margin-left: 0;" />
-
 
 
 <TABLE class="bio-table">

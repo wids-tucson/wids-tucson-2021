@@ -263,6 +263,26 @@ footer p {
     margin-bottom: 2rem;
 }
 
+.bio-table {
+    font-size: 1.1rem;
+    border:none;
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    vertical-align: middle;
+    font-size: 0.8rem;
+}
+
+.bio-table td {
+    border:none;
+    background-color: #FFFFFF !important;
+}
+
+.bio-table tbody > tr:hover > td {
+    background-color: unset !important;
+    color: unset !important;
+}
+
 .fake-header-table,
 td.mid-table-header {
     font-weight: 700;
