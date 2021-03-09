@@ -7,8 +7,9 @@
             class="{{- if .bottomborder }} section-bottom {{- end }}{{- if .header }} fake-header-table {{- end }}{{- if .bg }} schedule-bg-{{ .bg }} {{- end }}">
             <td align="right" style="width:20%;text-align:right">
                 <strong>{{ .date }}</strong></td>
-            <td style="width:56%;text-align:left">{{ .title | markdownify }}
-                    {{- if .detail }}<br><small>{{.detail}}</small>{{- end }}</td>
+            <td style="width:56%;text-align:left">{{ .title}}
+                    {{- if .detail1 }}<br><small>{{.detail1}}</small>{{- end }}
+                    {{- if .detail2 }}<br><small>{{.detail2}}</small>{{- end }}</td>
 
             {{- if .header }}
             

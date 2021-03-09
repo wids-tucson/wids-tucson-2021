@@ -15,7 +15,7 @@ lessons:
   - title: 'Keynote Speaker'
     date: "9:15 - 9:45"
     main: "keynote"
-    detail: "Leveraging Artificial Intelligence and Big Data to create Value"
+    detail1: "Room Leveraging Artificial Intelligence and Big Data to create Value"
     bg: 1
 
   - title: 'Transition Time'
@@ -26,12 +26,17 @@ lessons:
     date: "9:50 - 10:05"
     room1: "rm1-talk-1"
     room2: "rm2-talk-1"
+    detail1: "Room 1: Talk 1 Title"
+    detail2: "Room 2: Talk 2 Title"
+
     bg: 1
 
   - title: 'Concurrent Talks'
     date: "10:15 - 10:30"
     room1: "rm1-talk-2"
     room2: "rm2-talk-2"
+    detail1: "Room 1: Talk 1 Title"
+    detail2: "Room 2: Talk 2 Title"
     bg: 1
     
   - title: 'Transition Time'
@@ -47,6 +52,8 @@ lessons:
     date: "11:20 - 11:50"
     room1: "panel-1a"
     room2: "panel-1b"
+    detail1: "Room 1: Panel 1 Title"
+    detail2: "Room 2: Panel 2 Title"
     bg: 1
 
   - title: 'Concurrent Networking and Coffee Break'
@@ -66,12 +73,16 @@ lessons:
     date: "1:00 - 1:15"
     room1: "rm1-talk-3"
     room2: "rm2-talk-3"
+    detail1: "Room 1: Talk 1 Title"
+    detail2: "Room 2: Talk 2 Title"
     bg: 1
 
   - title: 'Concurrent Talks'
     date: "1:20 - 1:35"
     room1: "rm1-talk-4"
     room2: "rm2-talk-4"
+    detail1: "Room 1: Talk 1 Title"
+    detail2: "Room 2: Talk 2 Title"
     bg: 1
     
   - title: 'Transition Time'
@@ -91,6 +102,8 @@ lessons:
     date: "2:35 - 3:05"
     room1: "panel-2a"
     room2: "panel-2b"
+    detail1: "Room 1: Panel 1 Title"
+    detail2: "Room 2: Panel 2 Title"
     bg: 1
 
   - title: 'Concurrent Networking'
