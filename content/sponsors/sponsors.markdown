@@ -1,6 +1,6 @@
 ---
 title: "Sponsors"
-date: "2021-03-08"
+date: "2021-03-09"
 menu:
   sponsors:
     parent: Sponsors & Organizers
@@ -10,4 +10,4 @@ toc: false
 weight: 2
 ---
 
-WIDS-Tucson 2021 Sponsors list forthcoming.
+<a href="https://scitechinstitute.org/about-us/" target="_blank" rel="noopener"><img style="float: left;" src="https://scitechinstitute.org/wp-content/themes/aztc-scitech/img/logo.svg" width="200"/></a>
