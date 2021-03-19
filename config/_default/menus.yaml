@@ -24,7 +24,7 @@ sessions:
     weight: 3
   - name: "Data Blitz"
     weight: 4
-  - name: Panels
+  - name: "Panels"
     weight: 5
-  - name: Networking
+  - name: "Networking"
     weight: 6

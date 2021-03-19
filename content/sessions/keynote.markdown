@@ -1,5 +1,5 @@
 ---
-title: "Keynote - Sudha Ram"
+title: "Keynote: Sudha Ram"
 date: "2021-03-03"
 menu:
   sessions:

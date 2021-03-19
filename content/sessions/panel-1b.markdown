@@ -1,7 +1,7 @@
 ---
-title: "Panel on X"
-linktitle: "Morning Panel #2"
-date: "2021-01-21"
+title: "Balance: Work/life/pandemic balance (past, present, and future struggles)"
+linktitle: "Morning Panel on Balance"
+date: "2021-03-19"
 menu:
   sessions:
     parent: Panels

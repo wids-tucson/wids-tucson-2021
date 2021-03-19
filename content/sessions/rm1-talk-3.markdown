@@ -1,7 +1,7 @@
 ---
-title: "Title of Talk #5"
-linktitle: "Concurrent Talk 3: Room 1"
-date: "2021-01-25"
+title: "The Holes In My Blackness: Tools and Approaches to Digital Data Collection on Young Black Women"
+linktitle: "Talk 3a: Erika Gault"
+date: "2021-03-19"
 menu:
   sessions:
     parent: Concurrent Speakers
@@ -12,8 +12,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Talk Title
- 
 Talk Abstract
 
 
@@ -22,11 +20,11 @@ Talk Abstract
 
 <TABLE class="bio-table">
 <TR>
-<TD COLSPAN="2"><h2>Speaker Name</h2></TD>
+<TD COLSPAN="2"><h2>Erika Gault</h2></TD>
 <TD ROWSPAN="4"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
 </TR>
 <TR>
-<TD ROWSPAN="3"><li> Job Title, Affiliation</li></TD>
+<TD ROWSPAN="3"><li> Assistant Professor of Africana Studies, University of Arizona</li></TD>
 
 <TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/" target="_blank" rel="noopener"> @twitter handle</a>
 </TD>

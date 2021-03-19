@@ -1,6 +1,6 @@
 ---
 title: "Data Blitz - Afternoon"
-linktitle: "Data Blitz - Afternoon"
+linktitle: "Afternoon"
 date: "2021-02-01"
 menu:
   sessions:

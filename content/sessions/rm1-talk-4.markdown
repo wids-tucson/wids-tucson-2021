@@ -1,7 +1,7 @@
 ---
-title: "Title of Talk #7"
-linktitle: "Concurrent Talk 4: Room 1"
-date: "2021-01-25"
+title: "Large-scale Water Sustainability"
+linktitle: "Talk 4a: Laura Condon"
+date: "2021-03-19"
 menu:
   sessions:
     parent: Concurrent Speakers
@@ -11,9 +11,6 @@ toc: false
 editor_options:
   chunk_output_type: console
 ---
-
-## Talk Title
- 
 Talk Abstract
 
 
@@ -22,11 +19,11 @@ Talk Abstract
 
 <TABLE class="bio-table">
 <TR>
-<TD COLSPAN="2"><h2>Speaker Name</h2></TD>
+<TD COLSPAN="2"><h2>Laura Condon</h2></TD>
 <TD ROWSPAN="4"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
 </TR>
 <TR>
-<TD ROWSPAN="3"><li> Job Title, Affiliation</li></TD>
+<TD ROWSPAN="3"><li> Assistant Professor of Hydrology and Atmospheric Sciences, University of Arizona</li></TD>
 
 <TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/" target="_blank" rel="noopener"> @twitter handle</a>
 </TD>

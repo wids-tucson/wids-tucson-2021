@@ -1,7 +1,7 @@
 ---
-title: "Panel on X"
-linktitle: "Afternoon Panel #1"
-date: "2021-01-21"
+title: "Panel on Industry skills: Transferable skills for industry"
+linktitle: "Afternoon Panel on Industry skills"
+date: "2021-03-19"
 menu:
   sessions:
     parent: Panels

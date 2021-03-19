@@ -2,7 +2,7 @@ lessons:
   - title: 'Morning Session'
     header: True
 
-  - title: 'Help Desk Opens'
+  - title: 'Help Desk Opens on gather.town'
     date: "8:30 - 9:00"
     main: "main-01"
     bg: 1
@@ -15,7 +15,7 @@ lessons:
   - title: 'Keynote Speaker'
     date: "9:15 - 9:45"
     main: "keynote"
-    detail1: "Room Leveraging Artificial Intelligence and Big Data to create Value"
+    detail1: "Leveraging Artificial Intelligence and Big Data to create Value"
     bg: 1
 
   - title: 'Transition Time'
@@ -26,8 +26,8 @@ lessons:
     date: "9:50 - 10:05"
     room1: "rm1-talk-1"
     room2: "rm2-talk-1"
-    detail1: "Room 1: Talk 1 Title"
-    detail2: "Room 2: Talk 2 Title"
+    detail1: "A: Subtask Analysis of Process Data Through a Predictive Model"
+    detail2: "B: The Role of Data Science in COVID-19 Projection"
 
     bg: 1
 
@@ -35,8 +35,8 @@ lessons:
     date: "10:15 - 10:30"
     room1: "rm1-talk-2"
     room2: "rm2-talk-2"
-    detail1: "Room 1: Talk 1 Title"
-    detail2: "Room 2: Talk 2 Title"
+    detail1: "A: Meta-analysis of Transcranial Magnetic Stimulation Studies in Neurodegenerative Disorders"
+    detail2: "B: CARE principles & data use and application"
     bg: 1
     
   - title: 'Transition Time'
@@ -52,8 +52,8 @@ lessons:
     date: "11:20 - 11:50"
     room1: "panel-1a"
     room2: "panel-1b"
-    detail1: "Room 1: Panel 1 Title"
-    detail2: "Room 2: Panel 2 Title"
+    detail1: "A: Data Ethics"
+    detail2: "B: Balance - Work/life/pandemic balance (past, present, and future struggles)"
     bg: 1
 
   - title: 'Concurrent Networking and Coffee Break'
@@ -73,16 +73,16 @@ lessons:
     date: "1:00 - 1:15"
     room1: "rm1-talk-3"
     room2: "rm2-talk-3"
-    detail1: "Room 1: Talk 1 Title"
-    detail2: "Room 2: Talk 2 Title"
+    detail1: "A: The Holes In My Blackness: Tools and Approaches to Digital Data Collection on Young Black Women"
+    detail2: "B: Using Data to Inform Criminal Justice Practice and Policies"
     bg: 1
 
   - title: 'Concurrent Talks'
     date: "1:20 - 1:35"
     room1: "rm1-talk-4"
     room2: "rm2-talk-4"
-    detail1: "Room 1: Talk 1 Title"
-    detail2: "Room 2: Talk 2 Title"
+    detail1: "A: Large-scale Water Sustainability"
+    detail2: "B: Information Visualization"
     bg: 1
     
   - title: 'Transition Time'
@@ -102,13 +102,13 @@ lessons:
     date: "2:35 - 3:05"
     room1: "panel-2a"
     room2: "panel-2b"
-    detail1: "Room 1: Panel 1 Title"
-    detail2: "Room 2: Panel 2 Title"
+    detail1: "A: Industry skills - Transferable skills for industry"
+    detail2: "B: Leaky pipeline - Data science leaky pipeline"
     bg: 1
 
   - title: 'Concurrent Networking'
     date: "3:05 - 3:45"
-    network: "network-2"
+    network: "network-1"
     bg: 1
 
   - title: 'Data Blitz Awards & Closing Remarks'
@@ -118,5 +118,5 @@ lessons:
 
   - title: 'Happy Hour'
     date: "4:05"
-    network: "happyhour"
+    network: "network-1"
     bg: 1

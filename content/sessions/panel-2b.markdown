@@ -1,7 +1,7 @@
 ---
-title: "Panel on X"
-linktitle: "Afternoon Panel #2"
-date: "2021-01-21"
+title: "Panel on the Leaky pipeline: Data science leaky pipeline"
+linktitle: "Afternoon Panel on Leaky pipeline"
+date: "2021-03-19"
 menu:
   sessions:
     parent: Panels

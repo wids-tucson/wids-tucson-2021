@@ -1,7 +1,7 @@
 ---
-title: "Title of Talk #6"
-linktitle: "Concurrent Talk 3: Room 1"
-date: "2021-01-25"
+title: "Using Data to Inform Criminal Justice Practice and Policies"
+linktitle: "Talk 3b: LaCroix and Milligan"
+date: "2021-03-19"
 menu:
   sessions:
     parent: Concurrent Speakers
@@ -12,8 +12,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Talk Title
- 
 Talk Abstract
 
 
@@ -26,7 +24,7 @@ Talk Abstract
 <TD ROWSPAN="4"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
 </TR>
 <TR>
-<TD ROWSPAN="3"><li> Job Title, Affiliation</li></TD>
+<TD ROWSPAN="3"><li> Job Title, LaCroix and Milligan Associates</li></TD>
 
 <TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/" target="_blank" rel="noopener"> @twitter handle</a>
 </TD>

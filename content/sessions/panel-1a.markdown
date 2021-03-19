@@ -1,7 +1,7 @@
 ---
-title: "Panel on X"
-linktitle: "Morning Panel #1"
-date: "2021-01-21"
+title: "Panel on Data Ethics"
+linktitle: "Morning Panel on Data Ethics"
+date: "2021-03-19"
 menu:
   sessions:
     parent: Panels
