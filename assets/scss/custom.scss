@@ -26,15 +26,13 @@ h1 {
 
 h2 {
     font-size: 1.8rem;
-    margin-top: 2.75rem;
 }
 
-.article-style h2:first-child {
-    margin-top: 0.75rem;
-}
 
 h3 {
     font-size: 1.4rem;
+    color: lighten(nth($colors, 8), 30%);
+
 }
 
 kbd {
@@ -382,70 +380,25 @@ td.mid-table-header {
     font-weight: bold;
 }
 
-div.note,
-div.fyi,
-div.puzzle,
-div.warning {
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    color: lighten(nth($colors, 8), 5%);
+    background-color: nth($colors, 1);
+    border: solid 4px nth($colors, 7);
+    border-radius: 5px;
     position: relative;
-    padding: 1em 1em 1em 100px;
+    padding: 1em 1em 1em 1em;
     margin: 1em 0;
     min-height: 120px;
-}
+}  
 
-div.note:before,
-div.fyi:before,
-div.puzzle:before,
-div.warning:before {
-    position: absolute;
-    font-family: "FontAwesome";
-    font-size: 70px;
-    top: 0;
-    opacity: 0.5;
-}
-
-div.note {
-    color: nth($colors, 1);
-    background-color: lighten(nth($colors, 1), 60%);
-    border: dotted 4px nth($colors, 1);
-}
-
-div.note:before {
-    content: "\f0eb";
-    left: 30px;
-}
-
-div.fyi {
-    color: nth($colors, 3);
-    background-color: lighten(nth($colors, 3), 50%);
-    border: dotted 4px nth($colors, 3);
-}
-
-div.fyi:before {
-    content: "\f05a";
-    left: 20px;
-}
-
-div.puzzle {
-    color: nth($colors, 4);
-    background-color: lighten(nth($colors, 4), 50%);
-    border: dotted 4px nth($colors, 4);
-}
-
-div.puzzle:before {
-    content: "\f12e";
-    left: 20px;
-}
-
-div.warning {
-    color: #FFFFFF;
-    background-color: nth($colors, 6);
-    border: dotted 4px #FFFFFF;
-}
-
-div.warning:before {
-    content: "\f071";
-    left: 14px;
-}
+.flex-child:first-child {
+    margin-right: 20px;
+} 
 
 .img-inline {
     display: inline-block;

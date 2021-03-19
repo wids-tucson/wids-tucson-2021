@@ -19,11 +19,23 @@ The Global WiDS Conference aims to inspire and educate data scientists worldwide
 
 WiDS Tucson is an independent event organized by the University of Arizona to coincide with the annual Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS regional events, which features outstanding women doing outstanding work.
 
-This Tucson WIDS meeting aims to further build the community around women in Data Science. The meeting provides a forum for women to share technical information about their projects with each other, and community members; to explore innovative topics emerging in the software and data infrastructure communities; to discuss and learn about best practices across projects; and to stimulate new ideas of achieving software and data sustainability and new collaborations.
-
-Women in the data science community are invited to present talks and posters on their projects. Anyone who is interested in attending the meeting is welcome and encouraged to do so. There is no registration fee, but participants need to register by the deadline to allow for planning logistics.
-
-This meeting is virtual, and participants are encouraged to move from Zoom meeting to Zoom meeting to maximize their own experience.
-
 {{< courseinfo >}}
 
+This Tucson WIDS meeting aims to further build the community around women in Data Science. The meeting provides a forum for women to share technical information about their projects with each other, and community members; to explore innovative topics emerging in the software and data infrastructure communities; to discuss and learn about best practices across projects; and to stimulate new ideas of achieving software and data sustainability and new collaborations.
+
+Women in the data science community are invited to present talks and posters on their projects. Anyone who is interested in attending the meeting is welcome and encouraged to do so. 
+
+There is no registration fee, but participants need to register by the deadline to allow for planning logistics. This meeting is virtual and will be hosted on gathertown and Zoom. Participants are encouraged to move between Zoom meetings and network in Gather Town to maximize their own experience.
+
+{{% div flex-container %}}
+  <div class="flex-child magenta">
+    <h3>Present in the Data Blitz and potentially win $100  </h3>
+Presenters will give a 3-minute overview of their research using 3 PowerPoint slides (template to be provided) discussing: the research problem, tools, and/or approach. Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSfl1T6mYeh_lH425jZFXZBASy7Jq3qbO9jJe7UCoEw5bp_uYQ/viewform">here</a> by April 4, 2021. . 
+  </div>
+  <div class="flex-child green">
+    <h3>T-Shirt Design Contest</h3>
+WIDS 2021 is hosting a tshirt design contest for our WIDS 2022 event. More information forthcoming!  
+  </div>
+{{% /div %}}
+
+There is no registration fee, but participants need to register by the deadline to allow for planning logistics. This meeting is virtual and will be hosted on gathertown and Zoom. Participants are encouraged to move between Zoom meetings and network in Gather Town to maximize their own experience.
