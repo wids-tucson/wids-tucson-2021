@@ -21,13 +21,13 @@ The phenomenal growth of social media, mobile  applications, sensor based techno
 <TABLE class="bio-table">
 <TR>
 <TD COLSPAN="2"><h2>Sudha Ram</h2></TD>
-<TD ROWSPAN="4"><img style="float: left;" src="https://appliedmath.arizona.edu/sites/default/files/styles/uaqs_medium/public/images/people/Ram_Sudha.jpg?itok=xjHPqvao" width="300" /></TD>
+<TD ROWSPAN="4"><img style="float: left;" src="/img/sudha-ram.jpg" width="300" /></TD>
 </TR>
 <TR>
-<TD ROWSPAN="3"><li> Professor, Management Information Systems</li>
-<li>Professor, Computer Science</li>
-<li>Professor, Remote Sensing / Spatial Analysis - GIDP</li>
-<li>Professor, BIO5 Institute </li></TD>
+<TD ROWSPAN="3"><li> Professor, Management Information Systems, University of Arizona</li>
+<li>Professor, Computer Science, University of Arizona</li>
+<li>Professor, Remote Sensing / Spatial Analysis - GIDP, University of Arizona</li>
+<li>Professor, BIO5 Institute, University of Arizona </li></TD>
 
 <TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/sudharam" target="_blank" rel="noopener"> @sudharam</a>
 </TD>
