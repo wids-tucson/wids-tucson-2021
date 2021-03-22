@@ -266,14 +266,16 @@ footer p {
     border:none;
     display: block;
     overflow-x: auto;
-    white-space: nowrap;
     vertical-align: middle;
     font-size: 0.8rem;
+    table-layout: fixed;
+    width: 90%;
 }
 
 .bio-table td {
     border:none;
     background-color: #FFFFFF !important;
+    word-wrap:break-all;
 }
 
 .bio-table tbody > tr:hover > td {
@@ -310,7 +312,7 @@ table > tbody > tr:hover > th {
 table {
     display: block;
     overflow-x: auto;
-    white-space: nowrap;
+    // white-space: nowrap;
     vertical-align: middle;
 }
 
