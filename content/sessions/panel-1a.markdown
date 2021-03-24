@@ -34,35 +34,7 @@ Hong Cui's research focuses on machine learning applications for semantic annota
 </td>
 </tr>
 
-
 <!--- #################Speaker 2############## --->
-<tr>
-<td COLSPAN="2"><h2>Elliot Truslow</h2></td>
-<td ROWSPAN="4"><img style="float: left;" src="/img/elliot-truslow.jpg" width="300" /></td>
-</tr>
-<tr>
-<td ROWSPAN="3"><li>School of Sociology, University of Arizona</li></td>
-<td><i class="fab fa-twitter"></i> <a href="https://twitter.com/ohheyitselliot" target="_blank" rel="noopener"> @ohheyitselliot</a>
-</td>
-</tr>
-<tr>
-<td><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/elliotleetruslow/" target="_blank" rel="noopener">Linkedin</a>
-</td>
-</tr>
-<tr>
-<td><i class="fa fa-link"></i> <a href="https://elliotdoes.work/" target="_blank" rel="noopener">Website</a>
-</td>
-</tr>
-
-<tr>
-<td COLSPAN="3">
-Speaker Bio Forthcoming
-
-</td>
-</tr>
-
-
-<!--- #################Speaker 3############## --->
 <tr>
 <td COLSPAN="2"><h2>Natasha Warner</h2></td>
 <td ROWSPAN="3"><img style="float: left;" src="/img/natasha-warner.jpg" width="300" /></td>
@@ -85,7 +57,7 @@ I also work with the Mutsun community of California, a Native American community
 </td>
 </tr>
 
-<!--- #################Speaker 4############## --->
+<!--- #################Speaker 3############## --->
 
 
 <tr>
@@ -112,6 +84,32 @@ I also work with the Mutsun community of California, a Native American community
 Sonja Lanehart is Professor of Linguistics in the College of Social and Behavioral Sciences at the University of Arizona with a partial appointment in Teaching, Learning, and Sociocultural Studies in the College of Education as well as a Faculty Fellow in the Graduate College as of August 2019. Her scholarship focuses on language, literacy, and education in African American communities; language and identity; sociolinguistics and language variation; and Black education from Black feminist and Critical Race Theory perspectives. She is particularly interested in African American Women’s Languages and pushing the boundaries of research in sociolinguistics and language variation to be more diverse, inclusive, and intersectional (e.g., race/ethnicity, gender, sexuality, gender identity, region, SES, and religion) as seen with the significant research advancement presented in The Oxford Handbook of African American Language (Oxford University Press, 2015). She also is an advocate for mentoring and the retention of emerging scholars of color and a social justice advocate for equity and inclusion.
 
 She is a past co-editor (with Paul Schutz) of Educational Researcher: Research News and Comment section, the lead journal of the American Educational Research Association, which is delivered to more than 23,000 members. She is also a past book review editor of American Speech. She is the author of Sista, Speak! Black Women Kinfolk Talk about Language and Literacy (U Texas Press, 2002), which received Honorable Mention in the 2003 Myers Outstanding Book Award competition sponsored by the Gustavus Myers Center for the Study of Bigotry and Human Rights in North America, editor of Sociocultural and Historical Contexts of African American English (John Benjamins, 2001), and African American Women’s Language: Discourse, Education, and Identity (Cambridge Scholars Publishing, 2009). She most recently published The Oxford Handbook of African American Language (Oxford University Press, 2015).
+
+</td>
+</tr>
+
+
+<tr>
+<td COLSPAN="2"><h2>Moderator: Elliot Truslow</h2></td>
+<td ROWSPAN="4"><img style="float: left;" src="/img/elliot-truslow.jpg" width="300" /></td>
+</tr>
+<tr>
+<td ROWSPAN="3"><li>School of Sociology, University of Arizona</li></td>
+<td><i class="fab fa-twitter"></i> <a href="https://twitter.com/ohheyitselliot" target="_blank" rel="noopener"> @ohheyitselliot</a>
+</td>
+</tr>
+<tr>
+<td><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/elliotleetruslow/" target="_blank" rel="noopener">Linkedin</a>
+</td>
+</tr>
+<tr>
+<td><i class="fa fa-link"></i> <a href="https://elliotdoes.work/" target="_blank" rel="noopener">Website</a>
+</td>
+</tr>
+
+<tr>
+<td COLSPAN="3">
+Speaker Bio Forthcoming
 
 </td>
 </tr>
