@@ -4,6 +4,8 @@ weight: 1
 ---
 
 # Sponsors
+<a href="https://datascience.arizona.edu/" target="_blank" rel="noopener"><img src="https://datascience.arizona.edu/sites/all/themes/ua_zen_subtheme/logo.png" width="200"/></a>
+
 <a href="https://scitechinstitute.org/about-us/" target="_blank" rel="noopener"><img src="https://scitechinstitute.org/wp-content/themes/aztc-scitech/img/logo.svg" width="200"/></a>
 
 <a href="https://eller.arizona.edu/" target="_blank" rel="noopener"><img src="https://eller.arizona.edu/sites/default/files/Eller_Webheader.png" width="200"/></a>
