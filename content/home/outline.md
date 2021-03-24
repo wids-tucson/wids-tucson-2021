@@ -29,8 +29,8 @@ There is no registration fee, but participants need to register by the deadline 
 
 {{% div flex-container %}}
   <div class="flex-child magenta">
-    <h4>Present in the Data Blitz and potentially win $100  </h4>
-Presenters will give a 3-minute overview of their research using 3 PowerPoint slides (template to be provided) discussing: the research problem, tools, and/or approach. Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSfl1T6mYeh_lH425jZFXZBASy7Jq3qbO9jJe7UCoEw5bp_uYQ/viewform">here</a> by April 4, 2021. . 
+    <h4>Present in the Data Blitz</h4>
+Presenters will give a 3-minute overview of their research using 3 PowerPoint slides (template to be provided) discussing: the research problem, tools, and/or approach. Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSfl1T6mYeh_lH425jZFXZBASy7Jq3qbO9jJe7UCoEw5bp_uYQ/viewform">here</a> by April 4, 2021. Prizes awarded to the top 6 presenters selected by the audience. 
   </div>
   <div class="flex-child green">
     <h4>T-Shirt Design Contest</h4>
