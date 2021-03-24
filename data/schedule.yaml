@@ -15,7 +15,7 @@ lessons:
   - title: 'Keynote Speaker'
     date: "9:15 - 9:45"
     main: "keynote"
-    detail1: "Leveraging Artificial Intelligence and Big Data to create Value"
+    detail1: "Sudha Ram -Leveraging Artificial Intelligence and Big Data to create Value"
     bg: 1
 
   - title: 'Transition Time'
@@ -26,8 +26,8 @@ lessons:
     date: "9:50 - 10:05"
     room1: "rm1-talk-1"
     room2: "rm2-talk-1"
-    detail1: "A: Subtask Analysis of Process Data Through a Predictive Model"
-    detail2: "B: The Role of Data Science in COVID-19 Projection"
+    detail1: "A: Xueying Tang - Subtask Analysis of Process Data Through a Predictive Model"
+    detail2: "B: Lily Wang - The Role of Data Science in COVID-19 Projection"
 
     bg: 1
 
@@ -35,8 +35,8 @@ lessons:
     date: "10:15 - 10:30"
     room1: "rm1-talk-2"
     room2: "rm2-talk-2"
-    detail1: "A: Meta-analysis of Transcranial Magnetic Stimulation Studies in Neurodegenerative Disorders"
-    detail2: "B: CARE principles & data use and application"
+    detail1: "A: Ying-hui Chou - Meta-analysis of Transcranial Magnetic Stimulation Studies in Neurodegenerative Disorders"
+    detail2: "B: Stephanie Carroll - CARE principles & data use and application"
     bg: 1
     
   - title: 'Transition Time'
@@ -59,6 +59,8 @@ lessons:
   - title: 'Concurrent Networking and Coffee Break'
     date: "11:50 - 12:30"
     network: "network-1"
+    detail1: "Ethical challenges in open science and data sharing"
+    detail2: "Data science communities and social support"
     bg: 1
 
   - title: 'Lunch Break'
@@ -73,16 +75,16 @@ lessons:
     date: "1:00 - 1:15"
     room1: "rm1-talk-3"
     room2: "rm2-talk-3"
-    detail1: "A: The Holes In My Blackness: Tools and Approaches to Digital Data Collection on Young Black Women"
-    detail2: "B: Using Data to Inform Criminal Justice Practice and Policies"
+    detail1: "A: Erika Gault - The Holes In My Blackness: Tools and Approaches to Digital Data Collection on Young Black Women"
+    detail2: "B: LaCroix and Milligan Associates - Using Data to Inform Criminal Justice Practice and Policies"
     bg: 1
 
   - title: 'Concurrent Talks'
     date: "1:20 - 1:35"
     room1: "rm1-talk-4"
     room2: "rm2-talk-4"
-    detail1: "A: Large-scale Water Sustainability"
-    detail2: "B: Information Visualization"
+    detail1: "A: Laura Condon - Large-scale Water Sustainability"
+    detail2: "B: Kate Isaacs - Information Visualization"
     bg: 1
     
   - title: 'Transition Time'
@@ -109,6 +111,8 @@ lessons:
   - title: 'Concurrent Networking'
     date: "3:05 - 3:45"
     network: "network-1"
+    detail1: "Applying for data science jobs in industry"
+    detail2: "Encouraging women to pursue careers in data science"
     bg: 1
 
   - title: 'Data Blitz Awards & Closing Remarks'
