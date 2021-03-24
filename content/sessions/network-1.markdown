@@ -10,12 +10,14 @@ type: docs
 toc: false
 ---
 
+Follow the green "networking" arrows in gather.town to these destinations:
+
 ## Morning Networking:
-* NETWORKING TITLE 1
-* NETWORKING TITLE 2
-* AM DATA BLITZ BREAKOUT
+* 1: Ethical challenges in open science and data sharing
+* 2: Data science communities and social support
+* AM Data Blitz Meet the Speakers
 
 ## Afternoon Networking:
-* NETWORKING TITLE 1
-* NETWORKING TITLE 2
-* PM DATA BLITZ BREAKOUT
+* 1: Applying for data science jobs in industry
+* 2: Encouraging women to pursue careers in data science
+* PM Data Blitz Meet the Speakers

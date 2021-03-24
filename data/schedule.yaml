@@ -59,8 +59,8 @@ lessons:
   - title: 'Concurrent Networking and Coffee Break'
     date: "11:50 - 12:30"
     network: "network-1"
-    detail1: "Ethical challenges in open science and data sharing"
-    detail2: "Data science communities and social support"
+    detail1: "1: Ethical challenges in open science and data sharing"
+    detail2: "2: Data science communities and social support"
     bg: 1
 
   - title: 'Lunch Break'
@@ -111,8 +111,8 @@ lessons:
   - title: 'Concurrent Networking'
     date: "3:05 - 3:45"
     network: "network-1"
-    detail1: "Applying for data science jobs in industry"
-    detail2: "Encouraging women to pursue careers in data science"
+    detail1: "1: Applying for data science jobs in industry"
+    detail2: "2: Encouraging women to pursue careers in data science"
     bg: 1
 
   - title: 'Data Blitz Awards & Closing Remarks'
