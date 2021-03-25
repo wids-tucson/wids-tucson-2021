@@ -21,7 +21,7 @@ The coronavirus disease 2019 (COVID-19) pandemic has placed epidemic modeling at
 <TABLE class="bio-table">
 <TR>
 <TD COLSPAN="2"><h2>Lily Wang</h2></TD>
-<TD ROWSPAN="4"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
+<TD ROWSPAN="4"><img style="float: left;" src="/img/lily-wang.jpg" width="300" /></TD>
 </TR>
 <TR>
 <TD ROWSPAN="3"><li>Professor of Statistics, Iowa State University</li></TD>

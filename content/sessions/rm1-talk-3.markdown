@@ -20,7 +20,7 @@ This talk unpacks the presenter's recent research regarding young Black experien
 <TABLE class="bio-table">
 <TR>
 <TD COLSPAN="2"><h2>Erika Gault</h2></TD>
-<TD ROWSPAN="4"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
+<TD ROWSPAN="4"><img style="float: left;" src="/img/erika-gault.png" width="300" /></TD>
 </TR>
 <TR>
 <TD ROWSPAN="3"><li> Assistant Professor of Africana Studies, University of Arizona</li></TD>
@@ -44,4 +44,4 @@ Dr. Gault graduated from the State University of New York at Buffalo with a doct
 
 Given Dr. Gault’s innovative approach to ethnography, she was awarded the 2018-2019 Louisville Institute First Book Grant for Scholars of Color. She has just completed her first single-author volume on the digital religious lives of young Black Christians with New York University Press titled Networking the Black Church: Digital Black Christians and Hip Hop. It is the first work of its kind on digital Black religion. She is the co-editor of the book Beyond Christian Hip Hop: Towards Christians and Hip Hop. Other recent publications include “My People Are Free: Theorizing the Digital Black Church,” which appeared in the spring 2020 issue of Fire!!! The Multimedia Journal of Black Studies, for which she served as guest editor. 
 
-Dr. Gault is an innovator in the use of digital tools for the documentation of Black religion. She is the organizer and co-convener of the Africana Digital Humanities Institute (Africana DHi) and the live digital event ""Gathering in the Moment: Mobilizing the Digital Black Church's Prophetic Witness"" which drew over 15,000 viewers.
+Dr. Gault is an innovator in the use of digital tools for the documentation of Black religion. She is the organizer and co-convener of the Africana Digital Humanities Institute (Africana DHi) and the live digital event "Gathering in the Moment: Mobilizing the Digital Black Church's Prophetic Witness" which drew over 15,000 viewers.
