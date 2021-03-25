@@ -12,7 +12,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-Talk Abstract
+Talk Abstract forthcoming
 
 
 <hr style="width: 100%; text-align: center; margin-left: 0;" />
@@ -27,17 +27,13 @@ Talk Abstract
 <TR>
 <TD ROWSPAN="3"><li>Assistant Professor of Psychology, University of Arizona</li></TD>
 
-<TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/" target="_blank" rel="noopener"> @twitter handle</a>
+<TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/BrainTms" target="_blank" rel="noopener">@BrainTms</a>
 </TD>
 </TR>
 <TR>
-<TD><i class="fab fa-linkedin"></i> <a href="www.linkedin.com/in/" target="_blank" rel="noopener">Linkedin</a>
-</TD>
-</TR>
-<TR>
-<TD><i class="fa fa-link"></i> <a href="https://www.arizona.edu/am" target="_blank" rel="noopener">Website</a>
+<TD><i class="fa fa-link"></i> <a href="https://yinghuichou.wixsite.com/tmslab" target="_blank" rel="noopener">Website</a>
 </TD>
 </TR>
 </TABLE>
 
-Speaker Bio
+Dr. Ying-hui Chou is the director of the Brain Imaging and Transcranial Magnetic Stimulation (TMS) Laboratory at the University of Arizona. Her research has focused primarily on the cognitive and clinical neuroscience of aging and neurodegenerative disorders. Within this framework, Dr. Chou's laboratory is particularly interested in integrating brain imaging and TMS techniques to 1) develop image-guided therapeutic TMS protocols and 2) explore TMS-derived and image-based biomarkers for early diagnosis and prediction of therapeutic outcomes for individuals with mild cognitive impairment. Dr. Chou teaches undergraduate and graduate level courses in cognitive neuroscience, brain rehabilitation, and brain connectivity at the University of Arizona.
