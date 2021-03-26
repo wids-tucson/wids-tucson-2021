@@ -22,10 +22,16 @@ Talk Abstract forthcoming
 <TABLE class="bio-table">
 <TR>
 <TD COLSPAN="2"><h2>Ying-hui Chou</h2></TD>
-<TD ROWSPAN="4"><img style="float: left;" src="/img/ying-hui-chou.jpg" width="300" /></TD>
+<TD ROWSPAN="4"><img style="float: left;" src="/img/ying-hui-chou.jpg" width="200" /></TD>
 </TR>
 <TR>
-<TD ROWSPAN="3"><li>Assistant Professor of Psychology, University of Arizona</li></TD>
+<TD ROWSPAN="3">
+Assistant Professor<br>
+Director, Brain Imaging and TMS Laboratory<br>
+Department of Psychology<br>
+University of Arizona
+
+</TD>
 
 <TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/BrainTms" target="_blank" rel="noopener">@BrainTms</a>
 </TD>

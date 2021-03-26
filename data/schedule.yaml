@@ -15,7 +15,7 @@ lessons:
   - title: 'Keynote Speaker'
     date: "9:15 - 9:45"
     main: "keynote"
-    detail1: "Sudha Ram -Leveraging Artificial Intelligence and Big Data to create Value"
+    detail1: "Sudha Ram - Leveraging Artificial Intelligence and Big Data to Create Value"
     bg: 1
 
   - title: 'Transition Time'
@@ -36,7 +36,7 @@ lessons:
     room1: "rm1-talk-2"
     room2: "rm2-talk-2"
     detail1: "A: Ying-hui Chou - Meta-analysis of Transcranial Magnetic Stimulation Studies in Neurodegenerative Disorders"
-    detail2: "B: Stephanie Carroll - CARE principles & data use and application"
+    detail2: "B: Stephanie Carroll - CARE Principles & Data Use and Application"
     bg: 1
     
   - title: 'Transition Time'
@@ -53,14 +53,14 @@ lessons:
     room1: "panel-1a"
     room2: "panel-1b"
     detail1: "A: Data Ethics"
-    detail2: "B: Balance - Work/life/pandemic balance (past, present, and future struggles)"
+    detail2: "B: Work/life/pandemic Balance (past, present, and future struggles)"
     bg: 1
 
   - title: 'Concurrent Networking and Coffee Break'
     date: "11:50 - 12:30"
     network: "network-1"
-    detail1: "1: Ethical challenges in open science and data sharing"
-    detail2: "2: Data science communities and social support"
+    detail1: "1: Ethical Challenges in Open Science and Data Sharing"
+    detail2: "2: Data Science Communities and Social Support"
     bg: 1
 
   - title: 'Lunch Break'
@@ -75,15 +75,15 @@ lessons:
     date: "1:00 - 1:15"
     room1: "rm1-talk-3"
     room2: "rm2-talk-3"
-    detail1: "A: Erika Gault - The Holes In My Blackness: Tools and Approaches to Digital Data Collection on Young Black Women"
-    detail2: "B: Kathleen Prudic - Citizen Science"
+    detail1: "A: Erika Gault - The Holes In My Blackness"
+    detail2: "B: Kathleen Prudic - Big Messy Data in Pollinator Conservation and Climate Change"
     bg: 1
 
   - title: 'Concurrent Talks'
     date: "1:20 - 1:35"
     room1: "rm1-talk-4"
     room2: "rm2-talk-4"
-    detail1: "A: Laura Condon - Large-scale Water Sustainability"
+    detail1: "A: Laura Condon - Hydrologic Modeling at the Continental Scale"
     detail2: "B: Kate Isaacs - Information Visualization"
     bg: 1
     
@@ -104,15 +104,15 @@ lessons:
     date: "2:35 - 3:05"
     room1: "panel-2a"
     room2: "panel-2b"
-    detail1: "A: Industry skills - Transferable skills for industry"
-    detail2: "B: Leaky pipeline - Data science leaky pipeline"
+    detail1: "A: Transferable Skills for Industry"
+    detail2: "B: Data Science Leaky Pipeline"
     bg: 1
 
   - title: 'Concurrent Networking'
     date: "3:05 - 3:45"
     network: "network-1"
-    detail1: "1: Applying for data science jobs in industry"
-    detail2: "2: Encouraging women to pursue careers in data science"
+    detail1: "1: Applying for Data Science Jobs in Industry"
+    detail2: "2: Encouraging Women to Pursue Careers in Data Science"
     bg: 1
 
   - title: 'Data Blitz Awards & Closing Remarks'

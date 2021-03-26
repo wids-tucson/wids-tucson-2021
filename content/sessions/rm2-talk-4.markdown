@@ -23,17 +23,15 @@ Talk Abstract
 <TD ROWSPAN="4"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
 </TR>
 <TR>
-<TD ROWSPAN="3"><li> Assistant Professor of Computer Science, University of Arizona</li></TD>
+<TD ROWSPAN="3">Assistant Professor<br>
+Department of Computer Science<br>
+University of Arizona</TD>
 
-<TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/" target="_blank" rel="noopener"> @twitter handle</a>
+<TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/8clique" target="_blank" rel="noopener">@8clique</a>
 </TD>
 </TR>
 <TR>
-<TD><i class="fab fa-linkedin"></i> <a href="www.linkedin.com/in/" target="_blank" rel="noopener">Linkedin</a>
-</TD>
-</TR>
-<TR>
-<TD><i class="fa fa-link"></i> <a href="https://www.arizona.edu/am" target="_blank" rel="noopener">Website</a>
+<TD><i class="fa fa-link"></i> <a href="http://hdc.cs.arizona.edu/people/kisaacs/" target="_blank" rel="noopener">Website</a>
 </TD>
 </TR>
 </TABLE>

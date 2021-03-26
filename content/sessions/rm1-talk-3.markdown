@@ -20,10 +20,11 @@ This talk unpacks the presenter's recent research regarding young Black experien
 <TABLE class="bio-table">
 <TR>
 <TD COLSPAN="2"><h2>Erika Gault</h2></TD>
-<TD ROWSPAN="4"><img style="float: left;" src="/img/erika-gault.png" width="300" /></TD>
+<TD ROWSPAN="4"><img style="float: left;" src="/img/erika-gault.png" width="200" /></TD>
 </TR>
 <TR>
-<TD ROWSPAN="3"><li> Assistant Professor of Africana Studies, University of Arizona</li></TD>
+<TD ROWSPAN="3">
+Assistant Professor<br>Department of Africana Studies<br> University of Arizona</TD>
 
 <TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/erikagault" target="_blank" rel="noopener">@erikagault</a>
 </TD>

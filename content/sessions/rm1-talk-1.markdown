@@ -26,7 +26,7 @@ Simulation studies are conducted to assess performance of the new methods. We us
 <TD ROWSPAN="4"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
 </TR>
 <TR>
-<TD ROWSPAN="3"><li> Assistant Professor of Mathematics, University of Arizona</li></TD>
+<TD ROWSPAN="3">Assistant Professor<br>Department of Mathematics<br>University of Arizona</TD>
 <TD><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/xueying-tang-79b18023/" target="_blank" rel="noopener">Linkedin</a>
 </TD>
 </TR>
