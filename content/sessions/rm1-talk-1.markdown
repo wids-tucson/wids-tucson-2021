@@ -23,7 +23,7 @@ Simulation studies are conducted to assess performance of the new methods. We us
 <TABLE class="bio-table">
 <TR>
 <TD COLSPAN="2"><h2>Xueying Tang</h2></TD>
-<TD ROWSPAN="4"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
+<TD ROWSPAN="4"><img style="float: left;" src="/img/xueying-tang.png" width="250" /></TD>
 </TR>
 <TR>
 <TD ROWSPAN="3">Assistant Professor<br>Department of Mathematics<br>University of Arizona</TD>
