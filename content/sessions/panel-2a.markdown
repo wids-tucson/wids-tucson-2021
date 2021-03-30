@@ -17,7 +17,7 @@ editor_options:
 <!--- #################Speaker 1############## --->
 <TR>
 <TD COLSPAN="2"><h2>Calline Sanchez</h2></TD>
-<TD ROWSPAN="4"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
+<TD ROWSPAN="4"><img style="float: left;" src="/img/calline-sanchez.jpg" width="300" /></TD>
 </TR>
 <TR>
 <TD ROWSPAN="3">
@@ -35,13 +35,23 @@ editor_options:
 </TD>
 </TR>
 <TR>
-<TD COLSPAN="3">Speaker Bio Forthcoming</TD>
+<TD COLSPAN="3">
+
+Since joining IBM full-time in 2001, Calline Sanchez has held four executive leadership positions. She is currently  Vice President, IBM Global TSS Service Planning and Premium Support, leading a worldwide team of IBM service planners, offering leaders, and premium support specialists. She also serves as the Tucson, Arizona Site Leader and Arizona and New Mexico State Leader. 
+<br><br>
+Previously, Ms. Sanchez lead IBM Worldwide Systems Lab Services and Technical Universities, comprised of teams of technology consultants delivering systems and solutions to end users. She was also the engineering leader for the development of IBM's Enterprise Storage Systems, and led the IBM Storage Program Management team to deliver the Storage Portfolio. This included Flash, Disk, Physical/Virtual Tape, and Data Back-up solutions. In 2019, Flash Memory Summit (FMS) and the Evaluator Group named Ms. Sanchez the winner of the SuperWomen in Flash Leadership Award. In the same year, BizTucson recognized her as a Visionary Award winner, and AZ Big Media recognized her as one of the most Influential Women in Arizona. 
+<br><br>
+Ms. Sanchez began her IBM career as a Software Engineer intern in 1999 after working at Sandia National Labs for several years.
+<br><br>
+Ms. Sanchez is very involved in both the State and local community. She currently serves as a leader or board member in the following Councils and organizations: The Arizona-Mexico Commission, The Arizona Chamber of Commerce and Industry, The Arizona Tech Council, The Southern Arizona Leadership Council, University of Arizona School of Management Information Systems, The United Way of Tucson and Southern Arizona, and Angel Charity for Children Inc. In 2018, Ms Sanchez was 2018 Hispanic Business Woman of the Year by the Tucson Hispanic Chamber of Commerce. 
+
+</TD>
 </TR>
 
 <!--- #################Speaker 2############## --->
 <TR>
 <TD COLSPAN="2"><h2>Sharon O’Neal</h2></TD>
-<TD ROWSPAN="2"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
+<TD ROWSPAN="2"><img style="float: left;" src="/img/sharon-oneal.jpg" width="300" /></TD>
 </TR>
 <TR>
 <TD>
@@ -52,7 +62,11 @@ editor_options:
 </TD>
 </TR>
 <TR>
-<TD COLSPAN="3">Speaker Bio Forthcoming</TD>
+<TD COLSPAN="3">
+Sharon O’Neal recently retired as an Engineering Director I at Raytheon Missile Systems (RMS) in Tucson, Arizona.  Over the course of her 35-year engineering career, Sharon has held a variety of roles and responsibilities, but most recently as the Software Engineering Director for more than 500 multi-disciplined engineers.  For the past 4 years, she has been teaching engineering courses at the UofA.  Her goal is to share the wealth of her experiences with next generation engineers and help them transition from academia to industry careers successfully.  <br><br>
+Sharon has a BS degree in Computer Science, and she later earned a MS degree in Computer Engineering from the University of Southern California.  <br><br>
+Among her many passions, Sharon has been very proactive and dedicated to reaching out to school age children in her community to foster a better understanding and appreciation for the math and science disciplines.  
+</TD>
 </TR>
 
 
