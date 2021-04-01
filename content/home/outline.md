@@ -17,7 +17,7 @@ design:
 
 The Global WiDS Conference aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field. This one-day technical conference provides an opportunity to hear about the latest data science related research and applications in a number of domains, and connect with others in the field.
 
-WiDS Tucson is an independent event organized by the University of Arizona to coincide with the annual Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS regional events, which features outstanding women doing outstanding work. Students, faculty, or other Data Scientists identifying as female are invited to apply to present their research in our DataBlitz (3-minute lightning talks). Register for the DataBlitz <a href="https://docs.google.com/forms/d/e/1FAIpQLSfl1T6mYeh_lH425jZFXZBASy7Jq3qbO9jJe7UCoEw5bp_uYQ/viewform">here</a> by April 4, 2021.
+WiDS Tucson is an independent event organized by the University of Arizona to coincide with the annual Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS regional events, which features outstanding women doing outstanding work. Students, faculty, or other Data Scientists identifying as female are invited to apply to present their research in our DataBlitz (3-minute lightning talks). Register for the DataBlitz <a href="https://docs.google.com/forms/d/e/1FAIpQLSfl1T6mYeh_lH425jZFXZBASy7Jq3qbO9jJe7UCoEw5bp_uYQ/viewform">here</a> by <s>April 4, 2021</s> April 11, 2021.
 
 {{< courseinfo >}}
 
@@ -30,7 +30,7 @@ There is no registration fee, but participants need to register by the deadline 
 {{% div flex-container %}}
   <div class="flex-child magenta">
     <h4>Present in the Data Blitz</h4>
-Presenters will give a 3-minute overview of their research using 3 PowerPoint slides (template to be provided) discussing: the research problem, tools, and/or approach. Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSfl1T6mYeh_lH425jZFXZBASy7Jq3qbO9jJe7UCoEw5bp_uYQ/viewform">here</a> by April 4, 2021. Prizes awarded to the top 6 presenters selected by the audience. 
+Presenters will give a 3-minute overview of their research using 3 PowerPoint slides (template to be provided) discussing: the research problem, tools, and/or approach. Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSfl1T6mYeh_lH425jZFXZBASy7Jq3qbO9jJe7UCoEw5bp_uYQ/viewform">here</a> by <s>April 4, 2021</s> April 11, 2021. Prizes awarded to the top 6 presenters selected by the audience. 
   </div>
   <div class="flex-child green">
     <h4>T-Shirt Design Contest</h4>
