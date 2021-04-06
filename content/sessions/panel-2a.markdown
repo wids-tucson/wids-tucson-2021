@@ -1,6 +1,6 @@
 ---
 title: "Panel on Industry skills: Transferable skills for industry"
-linktitle: "Afternoon Panel on Industry skills"
+linktitle: "Afternoon Panel A on Industry skills"
 date: "2021-03-19"
 menu:
   sessions:
@@ -95,16 +95,16 @@ Among her many passions, Sharon has been very proactive and dedicated to reachin
 
 <!--- #################Speaker 4############## --->
 <TR>
-<TD COLSPAN="2"><h2>Moderator: Name </h2></TD>
+<TD COLSPAN="2"><h2>Moderator: Karen de La Rosa </h2></TD>
 <TD ROWSPAN="4"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
 </TR>
 <TR>
-<TD ROWSPAN="3"><li> Job Title, Affiliation</li></TD>
-<TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/" target="_blank" rel="noopener"> @twitter handle</a>
-</TD>
-</TR>
-<TR>
-<TD><i class="fab fa-linkedin"></i> <a href="www.linkedin.com/in/" target="_blank" rel="noopener">Linkedin</a>
+<TD ROWSPAN="3">
+Ph.D. Student <br>
+Applied Intercultural Arts Research GIDP (AIAR)  <br>
+Data Science Ambassador, Graduate Interdisciplinary Programs (GIDP) <br>
+University of Arizona</TD>
+<TD><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/karendelarosa111/" target="_blank" rel="noopener">Linkedin</a>
 </TD>
 </TR>
 <TR>

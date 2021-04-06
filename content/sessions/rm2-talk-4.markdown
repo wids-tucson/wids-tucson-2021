@@ -36,4 +36,4 @@ University of Arizona</TD>
 </TR>
 </TABLE>
 
-Kate Isaacs an assistant professor in the computer science department at the University of Arizona and a member of the Humans, Data, and Computers Lab (HDC). Her interests are in data visualization with a focus in application-driven problems and methodologies. Her work has led to new methods of representing complex computing processes for exploration and analysis of their behavior, with applications to high performance computing, distributed computing, data science, program analysis, and optimization. In 2019, she was awarded an NSF CAREER Grant for this work.
+Kate Isaacs is an assistant professor in the computer science department at the University of Arizona. Her interests are in data visualization with a focus in application-driven problems and methodologies. Her work has led to new methods of representing complex computing processes for exploration and analysis of their behavior, with applications to high performance computing, distributed computing, data science, program analysis, and optimization. In 2019, she was awarded an NSF CAREER Grant for this work.

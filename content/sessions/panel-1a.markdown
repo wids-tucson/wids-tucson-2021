@@ -1,6 +1,6 @@
 ---
 title: "Panel on Data Ethics"
-linktitle: "Morning Panel on Data Ethics"
+linktitle: "Morning Panel A on Data Ethics"
 date: "2021-03-19"
 menu:
   sessions:
@@ -20,7 +20,7 @@ editor_options:
 <td ROWSPAN="3"><img style="float: left;" src="/img/hong-cui.jpg" width="300" /></td>
 </tr>
 <tr>
-<td ROWSPAN="2"><li>Professor, School of Information, University of Arizona</li></td>
+<td ROWSPAN="2">Professor<br>School of Information<br>University of Arizona</li></td>
 <td><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/hong-cui-b9777018/" target="_blank" rel="noopener">Linkedin</a>
 </td>
 </tr>
@@ -40,7 +40,7 @@ Hong Cui's research focuses on machine learning applications for semantic annota
 <td ROWSPAN="3"><img style="float: left;" src="/img/natasha-warner.jpg" width="300" /></td>
 </tr>
 <tr>
-<td ROWSPAN="2"><li> Professor and Head, Deptartment of Linguistics, University of Arizona</li></td>
+<td ROWSPAN="2">Professor and Head<br>Deptartment of Linguistics<br>University of Arizona</td>
 <td><i class="fab fa-linkedin"></i> <a href=https://www.linkedin.com/in/natasha-warner-0a5050180/" target="_blank" rel="noopener">Linkedin</a>
 </td>
 </tr>
@@ -65,9 +65,11 @@ I also work with the Mutsun community of California, a Native American community
 <td ROWSPAN="4"><img style="float: left;" src="/img/sonja-lanehart.jpg" width="300" /></td>
 </tr>
 <tr>
-<td ROWSPAN="3"><li>Professor, Department of Linguistics, University of Arizona</li>
-<li>Professor, Teaching, Learning, and Sociocultural Studies, University of Arizona</li>
-<li>Faculty Fellow, Graduate College, University of Arizona</li></td>
+<td ROWSPAN="3">Professor<br>
+Department of Linguistics<br>
+Teaching, Learning, and Sociocultural Studies<br>
+Faculty Fellow, Graduate College <br>
+University of Arizona</td>
 <td><i class="fab fa-twitter"></i> <a href="https://twitter.com/@sonjalanehart" target="_blank" rel="noopener"> @sonjalanehart</a>
 </td>
 </tr>
@@ -94,7 +96,10 @@ She is a past co-editor (with Paul Schutz) of Educational Researcher: Research N
 <td ROWSPAN="4"><img style="float: left;" src="/img/elliot-truslow.jpg" width="300" /></td>
 </tr>
 <tr>
-<td ROWSPAN="3"><li>School of Sociology, University of Arizona</li></td>
+<td ROWSPAN="3">
+PhD Student<br>
+School of Sociology<br>
+University of Arizona</li></td>
 <td><i class="fab fa-twitter"></i> <a href="https://twitter.com/ohheyitselliot" target="_blank" rel="noopener"> @ohheyitselliot</a>
 </td>
 </tr>
