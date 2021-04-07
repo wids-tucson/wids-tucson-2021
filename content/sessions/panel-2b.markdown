@@ -16,11 +16,11 @@ editor_options:
 
 <!--- #################Speaker 1############## --->
 <TR>
-<TD COLSPAN="2"><h2>Janice Mak</h2></TD>
+<TD COLSPAN="2"><h2>Dr. Janice Mak</h2></TD>
 <TD ROWSPAN="3"><img style="float: left;" src="/img/janice-mak.jpg" width="300" /></TD>
 </TR>
 <TR>
-<TD ROWSPAN="2">Dr.; AZ State Board of Education & Data Sciences Academy</TD>
+<TD ROWSPAN="2">AZ State Board of Education & Data Sciences Academy</TD>
 <TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/jmakaz" target="_blank" rel="noopener">@jmakaz</a>
 </TD>
 </TR>
@@ -29,12 +29,12 @@ editor_options:
 </TD>
 </TR>
 <TR>
-<TD COLSPAN="3">Janice is a K–12 teacher on assignment from Phoenix, Arizona. She has been recognized with the Presidential Award for Excellence in Mathematics and Science Teaching and National Center for Women and Information Technology (NCWIT) Educator Award, both of which continue were the result of her passion to create and sustain inclusive and equitable STEM learning opportunities for every student. To this end, she is honored to serve on several boards, including the Arizona State Board of Education, Computer Science Teachers Association, NCWIT K-12 Alliance leadership team, the National Science Teaching Association Technology Advisory Board, and to advise with the Data Science Academy. </TD>
+<TD COLSPAN="3">Janice is a K-12 teacher on assignment from Phoenix, Arizona. She has been recognized with the Presidential Award for Excellence in Mathematics and Science Teaching and National Center for Women and Information Technology (NCWIT) Educator Award, both of which continue were the result of her passion to create and sustain inclusive and equitable STEM learning opportunities for every student. To this end, she is honored to serve on several boards, including the Arizona State Board of Education, Computer Science Teachers Association, NCWIT K-12 Alliance leadership team, the National Science Teaching Association Technology Advisory Board, and to advise with the Data Science Academy. </TD>
 </TR>
 
 <!--- #################Speaker 2############## --->
 <TR>
-<TD COLSPAN="2"><h2>Karina Salazar</h2></TD>
+<TD COLSPAN="2"><h2>Dr. Karina Salazar</h2></TD>
 <TD ROWSPAN="3"><img style="float: left;" src="/img/karina-salazar.jpg" width="300" /></TD>
 </TR>
 <TR>

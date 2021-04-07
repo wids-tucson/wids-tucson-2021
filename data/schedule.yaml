@@ -15,7 +15,7 @@ lessons:
   - title: 'Keynote Speaker'
     date: "9:15 - 9:45"
     main: "keynote"
-    detail1: "Sudha Ram - Leveraging Artificial Intelligence and Big Data to Create Value"
+    detail1: "Dr. Sudha Ram - Leveraging Artificial Intelligence and Big Data to Create Value"
     bg: 1
 
   - title: 'Transition Time'
@@ -26,8 +26,8 @@ lessons:
     date: "9:50 - 10:05"
     room1: "rm1-talk-1"
     room2: "rm2-talk-1"
-    detail1: "A: Xueying Tang - Subtask Analysis of Process Data Through a Predictive Model"
-    detail2: "B: Lily Wang - The Role of Data Science in COVID-19 Projection"
+    detail1: "A: Dr. Xueying Tang - Subtask Analysis of Process Data Through a Predictive Model"
+    detail2: "B: Dr. Lily Wang - The Role of Data Science in COVID-19 Projection"
 
     bg: 1
 
@@ -35,8 +35,8 @@ lessons:
     date: "10:15 - 10:30"
     room1: "rm1-talk-2"
     room2: "rm2-talk-2"
-    detail1: "A: Ying-hui Chou - Meta-analysis of Transcranial Magnetic Stimulation Studies in Neurodegenerative Disorders"
-    detail2: "B: Kathleen Prudic - Big Messy Data in Pollinator Conservation and Climate Change"
+    detail1: "A: Dr. Ying-hui Chou - Meta-analysis of Transcranial Magnetic Stimulation Studies in Neurodegenerative Disorders"
+    detail2: "B: Dr. Kathleen Prudic - Big Messy Data in Pollinator Conservation and Climate Change"
     bg: 1
     
   - title: 'Transition Time'
@@ -75,16 +75,16 @@ lessons:
     date: "1:00 - 1:15"
     room1: "rm1-talk-3"
     room2: "rm2-talk-3"
-    detail1: "A: Erika Gault - The Holes In My Blackness"
-    detail2: "B: Lydia Jennings - CARE Principles & Data Use and Application"
+    detail1: "A: Dr. Erika Gault - The Holes In My Blackness"
+    detail2: "B: Dr. Lydia Jennings - CARE Principles & Data Use and Application"
     bg: 1
 
   - title: 'Concurrent Talks'
     date: "1:20 - 1:35"
     room1: "rm1-talk-4"
     room2: "rm2-talk-4"
-    detail1: "A: Laura Condon - Hydrologic Modeling at the Continental Scale"
-    detail2: "B: Kate Isaacs - Information Visualization"
+    detail1: "A: Dr. Laura Condon - Hydrologic Modeling at the Continental Scale"
+    detail2: "B: Dr. Kate Isaacs - Information Visualization"
     bg: 1
     
   - title: 'Transition Time'

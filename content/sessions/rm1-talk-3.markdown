@@ -1,6 +1,6 @@
 ---
 title: "The Holes In My Blackness: Tools and Approaches to Digital Data Collection on Young Black Women"
-linktitle: "Talk 3a: Erika Gault"
+linktitle: "Talk 3a: Dr. Erika Gault"
 date: "2021-03-19"
 menu:
   sessions:
@@ -19,7 +19,7 @@ This talk unpacks the presenter's recent research regarding young Black experien
 
 <TABLE class="bio-table">
 <TR>
-<TD COLSPAN="2"><h2>Erika Gault</h2></TD>
+<TD COLSPAN="2"><h2>Dr. Erika Gault</h2></TD>
 <TD ROWSPAN="4"><img style="float: left;" src="/img/erika-gault.png" width="200" /></TD>
 </TR>
 <TR>

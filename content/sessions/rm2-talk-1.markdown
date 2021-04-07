@@ -1,6 +1,6 @@
 ---
 title: "The Role of Data Science in COVID-19 Projection"
-linktitle: "Talk 1b: Lily Wang"
+linktitle: "Talk 1b: Dr.  Lily Wang"
 date: "2021-03-19"
 menu:
   sessions:
@@ -20,7 +20,7 @@ The coronavirus disease 2019 (COVID-19) pandemic has placed epidemic modeling at
 
 <TABLE class="bio-table">
 <TR>
-<TD COLSPAN="2"><h2>Lily Wang</h2></TD>
+<TD COLSPAN="2"><h2>Dr. Lily Wang</h2></TD>
 <TD ROWSPAN="4"><img style="float: left;" src="/img/lily-wang.jpg" width="300" /></TD>
 </TR>
 <TR>

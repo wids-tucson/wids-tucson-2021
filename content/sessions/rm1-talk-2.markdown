@@ -1,6 +1,6 @@
 ---
 title: "Meta-analysis of Transcranial Magnetic Stimulation Studies in Neurodegenerative Disorders"
-linktitle: "Talk 2a: Ying-hui Chou"
+linktitle: "Talk 2a: Dr. Ying-hui Chou"
 date: "2021-03-19"
 menu:
   sessions:
@@ -21,7 +21,7 @@ Talk Abstract forthcoming
 
 <TABLE class="bio-table">
 <TR>
-<TD COLSPAN="2"><h2>Ying-hui Chou</h2></TD>
+<TD COLSPAN="2"><h2>Dr. Ying-hui Chou</h2></TD>
 <TD ROWSPAN="4"><img style="float: left;" src="/img/ying-hui-chou.jpg" width="200" /></TD>
 </TR>
 <TR>

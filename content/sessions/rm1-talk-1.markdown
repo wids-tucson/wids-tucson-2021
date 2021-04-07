@@ -1,6 +1,6 @@
 ---
 title: "Subtask Analysis of Process Data Through a Predictive Model"
-linktitle: "Talk 1a: Xueying Tang"
+linktitle: "Talk 1a: Dr. Xueying Tang"
 date: "2021-03-19"
 menu:
   sessions:
@@ -22,11 +22,13 @@ Simulation studies are conducted to assess performance of the new methods. We us
 
 <TABLE class="bio-table">
 <TR>
-<TD COLSPAN="2"><h2>Xueying Tang</h2></TD>
+<TD COLSPAN="2"><h2>Dr. Xueying Tang</h2></TD>
 <TD ROWSPAN="4"><img style="float: left;" src="/img/xueying-tang.png" width="250" /></TD>
 </TR>
 <TR>
-<TD ROWSPAN="3">Assistant Professor<br>Department of Mathematics<br>University of Arizona</TD>
+<TD ROWSPAN="3">Assistant Professor<br>
+Department of Mathematics<br>
+University of Arizona</TD>
 <TD><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/xueying-tang-79b18023/" target="_blank" rel="noopener">Linkedin</a>
 </TD>
 </TR>

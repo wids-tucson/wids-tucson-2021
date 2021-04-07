@@ -1,6 +1,6 @@
 ---
 title: "Strategies in Visualizing Networks"
-linktitle: "Talk 4b: Kate Isaacs"
+linktitle: "Talk 4b: Dr. Kate Isaacs"
 date: "2021-04-04"
 menu:
   sessions:
@@ -19,7 +19,7 @@ Network data models entities and the relationships between them. Examples includ
 
 <TABLE class="bio-table">
 <TR>
-<TD COLSPAN="2"><h2>Kate Isaacs</h2></TD>
+<TD COLSPAN="2"><h2>Dr. Kate Isaacs</h2></TD>
 <TD ROWSPAN="4"><img style="float: left;" src="/img/kate-isaacs.png" width="300" /></TD>
 </TR>
 <TR>

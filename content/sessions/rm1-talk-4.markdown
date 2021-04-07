@@ -1,6 +1,6 @@
 ---
 title: "Hydrologic Modeling at the Continental Scale: Exploring the Role of Data Science in Discovery and Innovation"
-linktitle: "Talk 4a: Laura Condon"
+linktitle: "Talk 4a: Dr. Laura Condon"
 date: "2021-03-19"
 menu:
   sessions:
@@ -18,7 +18,7 @@ My research is focused on improved understanding of the dynamics of large scale 
 
 <TABLE class="bio-table">
 <TR>
-<TD COLSPAN="2"><h2>Laura Condon</h2></TD>
+<TD COLSPAN="2"><h2>Dr. Laura Condon</h2></TD>
 <TD ROWSPAN="4"><img style="float: left;" src="/img/laura-condon.jpg" width="200" /></TD>
 </TR>
 <TR>

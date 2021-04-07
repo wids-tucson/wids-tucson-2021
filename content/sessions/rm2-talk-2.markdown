@@ -1,6 +1,6 @@
 ---
 title: "Big messy data in pollinator conservation and climate change"
-linktitle: "Talk 2b: Kathleen Prudic"
+linktitle: "Talk 2b: Dr. Kathleen Prudic"
 date: "2021-03-29"
 menu:
   sessions:
@@ -18,7 +18,7 @@ editor_options:
   
   <TABLE class="bio-table">
   <TR>
-  <TD COLSPAN="2"><h2>Kathleen Prudic</h2></TD>
+  <TD COLSPAN="2"><h2>Dr. Kathleen Prudic</h2></TD>
   <TD ROWSPAN="4"><img style="float: left;" src="/img/katy-prudic.jpg" width="300" /></TD>
   </TR>
   <TR>

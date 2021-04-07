@@ -16,7 +16,7 @@ editor_options:
 
 <!--- #################Speaker 1############## --->
 <tr>
-<td COLSPAN="2"><h2>Hong Cui</h2></td>
+<td COLSPAN="2"><h2>Dr. Hong Cui</h2></td>
 <td ROWSPAN="3"><img style="float: left;" src="/img/hong-cui.jpg" width="300" /></td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ Hong Cui's research focuses on machine learning applications for semantic annota
 
 <!--- #################Speaker 2############## --->
 <tr>
-<td COLSPAN="2"><h2>Natasha Warner</h2></td>
+<td COLSPAN="2"><h2>Dr. Natasha Warner</h2></td>
 <td ROWSPAN="3"><img style="float: left;" src="/img/natasha-warner.jpg" width="300" /></td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ I also work with the Mutsun community of California, a Native American community
 
 
 <tr>
-<td COLSPAN="2"><h2>Sonja Lanehart</h2></td>
+<td COLSPAN="2"><h2>Dr. Sonja Lanehart</h2></td>
 <td ROWSPAN="4"><img style="float: left;" src="/img/sonja-lanehart.jpg" width="300" /></td>
 </tr>
 <tr>

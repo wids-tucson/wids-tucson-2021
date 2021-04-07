@@ -1,6 +1,6 @@
 ---
 title: "CARE principles & data use and application"
-linktitle: "Talk 3b: Lydia Jennings"
+linktitle: "Talk 3b: Dr. Lydia Jennings"
 date: "2021-03-29"
 menu:
   sessions:
@@ -21,7 +21,7 @@ Talk Abstract Forthcoming
 
 <!--- #################Speaker 1############## --->
 <TR>
-<TD COLSPAN="2"><h2>Lydia Jennings</h2></TD>
+<TD COLSPAN="2"><h2>Dr. Lydia Jennings</h2></TD>
 <TD ROWSPAN="4"><img style="float: left;" src="/img/lydia-jennings.jpg" width="200" /></TD>
 </TR>
 <TR>

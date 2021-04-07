@@ -50,7 +50,7 @@ Ms. Sanchez is very involved in both the State and local community. She currentl
 
 <!--- #################Speaker 2############## --->
 <TR>
-<TD COLSPAN="2"><h2>Sharon O’Neal</h2></TD>
+<TD COLSPAN="2"><h2>Sharon O-Neal</h2></TD>
 <TD ROWSPAN="2"><img style="float: left;" src="/img/sharon-oneal.jpg" width="300" /></TD>
 </TR>
 <TR>
@@ -63,7 +63,7 @@ Ms. Sanchez is very involved in both the State and local community. She currentl
 </TR>
 <TR>
 <TD COLSPAN="3">
-Sharon O’Neal recently retired as an Engineering Director I at Raytheon Missile Systems (RMS) in Tucson, Arizona.  Over the course of her 35-year engineering career, Sharon has held a variety of roles and responsibilities, but most recently as the Software Engineering Director for more than 500 multi-disciplined engineers.  For the past 4 years, she has been teaching engineering courses at the UofA.  Her goal is to share the wealth of her experiences with next generation engineers and help them transition from academia to industry careers successfully.  <br><br>
+Sharon O-Neal recently retired as an Engineering Director I at Raytheon Missile Systems (RMS) in Tucson, Arizona.  Over the course of her 35-year engineering career, Sharon has held a variety of roles and responsibilities, but most recently as the Software Engineering Director for more than 500 multi-disciplined engineers.  For the past 4 years, she has been teaching engineering courses at the UofA.  Her goal is to share the wealth of her experiences with next generation engineers and help them transition from academia to industry careers successfully.  <br><br>
 Sharon has a BS degree in Computer Science, and she later earned a MS degree in Computer Engineering from the University of Southern California.  <br><br>
 Among her many passions, Sharon has been very proactive and dedicated to reaching out to school age children in her community to foster a better understanding and appreciation for the math and science disciplines.  
 </TD>

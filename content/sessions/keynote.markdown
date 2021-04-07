@@ -1,5 +1,5 @@
 ---
-title: "Keynote: Sudha Ram"
+title: "Keynote: Dr. Sudha Ram"
 date: "2021-03-03"
 menu:
   sessions:
@@ -11,7 +11,7 @@ toc: false
 
 ## Leveraging Artificial Intelligence and Big Data to create Value
  
-The phenomenal growth of social media, mobile  applications, sensor based technologies and  the Internet of Things is generating a flood of  “Big Data” and disrupting our  world in many ways. Simultaneously, we are seeing many interesting developments in machine learning and Artificial Intelligence  (AI) technologies and methods. In this talk I will examine  the paradigm shift caused by recent developments in AI and Big Data and ways to harness their power to  create a smarter world. Using examples from health care, smart cities, education, and businesses in general, I  will  highlight  challenges and  research opportunities for developing organizations of the future.
+The phenomenal growth of social media, mobile  applications, sensor based technologies and  the Internet of Things is generating a flood of "Big Data" and disrupting our  world in many ways. Simultaneously, we are seeing many interesting developments in machine learning and Artificial Intelligence  (AI) technologies and methods. In this talk I will examine  the paradigm shift caused by recent developments in AI and Big Data and ways to harness their power to  create a smarter world. Using examples from health care, smart cities, education, and businesses in general, I  will  highlight  challenges and  research opportunities for developing organizations of the future.
 
 
 <hr style="width: 100%; text-align: center; margin-left: 0;" />
@@ -20,7 +20,7 @@ The phenomenal growth of social media, mobile  applications, sensor based techno
 
 <TABLE class="bio-table">
 <TR>
-<TD COLSPAN="2"><h2>Sudha Ram</h2></TD>
+<TD COLSPAN="2"><h2>Dr. Sudha Ram</h2></TD>
 <TD ROWSPAN="4"><img style="float: left;" src="/img/sudha-ram.jpg" width="300" /></TD>
 </TR>
 <TR>
