@@ -27,7 +27,7 @@ Women in the data science community are invited to present talks and posters on 
 
 There is no registration fee, but participants need to register by the deadline to allow for planning logistics. This meeting is virtual and will be hosted on gathertown and Zoom. Participants are encouraged to move between Zoom meetings and network in Gather Town to maximize their own experience.
 
-{{% div flex-container %}}
+<!---{{% div flex-container %}}
   <div class="flex-child magenta">
     <h4>Present in the Data Blitz</h4>
 Presenters will give a 3-minute overview of their research using 3 PowerPoint slides (template to be provided) discussing: the research problem, tools, and/or approach. Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSfl1T6mYeh_lH425jZFXZBASy7Jq3qbO9jJe7UCoEw5bp_uYQ/viewform">here</a> by <s>April 4, 2021</s> April 11, 2021. Prizes awarded to the top 6 presenters selected by the audience. 
@@ -36,6 +36,6 @@ Presenters will give a 3-minute overview of their research using 3 PowerPoint sl
     <h4>T-Shirt Design Contest</h4>
 WIDS 2021 is hosting a tshirt design contest for our WIDS 2022 event. More information forthcoming!  
   </div>
-{{% /div %}}
+{{% /div %}}--->
 
 There is no registration fee, but participants need to register by the deadline to allow for planning logistics. This meeting is virtual and will be hosted on gathertown and Zoom. Participants are encouraged to move between Zoom meetings and network in Gather Town to maximize their own experience.
