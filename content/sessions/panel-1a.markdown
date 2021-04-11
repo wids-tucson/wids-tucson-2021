@@ -114,8 +114,6 @@ University of Arizona</li></td>
 
 <tr>
 <td COLSPAN="3">
-Speaker Bio Forthcoming
-
 </td>
 </tr>
 </TABLE>
