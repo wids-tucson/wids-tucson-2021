@@ -39,7 +39,7 @@ The main portion of the screen is the virtual environment with your character in
 On the bottom of the screen you will see a row of buttons which do the following (in order from
 left to right):
 - The leftmost button is your avatar, and if you click it you can customize your look.
-- Next to the avatar, is your name and status, which allows you to change your name and your video and audio devices. If your webcam feed or mic isn't picking up, check to make sure they are set to the correct device.
+- Next to the avatar, is your name and status, which allows you to change your name and your video and audio devices. If your webcam feed or mic isn't picking up, check to make sure they are set to the correct device. Here, you can also put a status. In Figure 2, the status says "Helper"
 - A map, which will pop up a mini-map and your location in it This is useful for very large maps but we will keep mostly to contained rooms.
 - A computer monitor, and this will give you the option to share your screen, like skype or zoom.
 - An emote button (the smiley face), which will cause a thought bubble to appear above your avatar, good for raising your hand or just expressing yourself!
@@ -54,7 +54,7 @@ When you have navigated to the correct room for the talk (Keynote, Room A, or Ro
 ![Figure 4: Text user sees after clicking 'x' to interact with Zoom object](/faq/3b.png)
 - Click on the zoom link and open the zoom application ins a separate window, Gather will auto-mute the user's video and audio output. 
 - Enter presentation is hosted on Zoom directly
-- They exit the zoom call, and head back to Gather to see this message. They click the green button to enter the Gather space exactly where they last left off. \
+- They exit the zoom call, and head back to Gather to see this message. They click the green button to enter the Gather space exactly where they last left off. 
 ![Figure 5: Button to re-enter Gather space after Zoom call](/faq/3c.png)
 
 
