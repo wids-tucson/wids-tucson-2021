@@ -10,6 +10,8 @@ weight: 1
 
 <a href="https://eller.arizona.edu/" target="_blank" rel="noopener"><img src="https://eller.arizona.edu/sites/default/files/Eller_Webheader.png" width="200"/></a>
 
+<a href="https://www.aztechcouncil.org/" target="_blank" rel="noopener"><img src="https://www.pngkey.com/png/full/267-2679749_az-tech-council-logo-arizona-technology-council-foundation.png" width="200"/></a>
+
 
 # Organizers
 
