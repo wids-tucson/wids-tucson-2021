@@ -28,7 +28,7 @@ on how to move around and interact.
 - You can change your look if you want!
 
 Here is a map of the WiDS Tucson Gather.Town
-![Figure 1: WiDS Tucson Map]()
+![Figure 1: WiDS Tucson Map](/faq/WiDS_gathertown_map.png)
 
 
 # Gather.town Navigation
@@ -68,5 +68,5 @@ If you would like lo find a person in the virtual world , click "Locate" and an 
 
 # I need help! 
 
-![Figure 8: Help Desks]()
+![Figure 8: Help Desks](/faq/8.png)
 If you're having trouble in gathertown, you can message anyone with a * at the beginning of their name - there are WiDS staff. Otherwise, navigate to a help desk (as shown above) and we will assist you as soon as possible! 
