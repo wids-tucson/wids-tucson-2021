@@ -32,7 +32,6 @@ health care, smart cities, education, and businesses in general, I will highligh
       <li>Professor, Remote Sensing / Spatial Analysis - GIDP, University of Arizona</li>
       <li>Professor, BIO5 Institute, University of Arizona </li>
     </TD>
-
     <TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/sudharam" target="_blank" rel="noopener"> @sudharam</a>  </TD>
   </TR>
   <TR>
