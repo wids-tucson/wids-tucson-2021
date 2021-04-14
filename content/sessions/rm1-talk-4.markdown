@@ -1,6 +1,6 @@
 ---
-title: "Hydrologic Modeling at the Continental Scale: Exploring the Role of Data Science in Discovery and Innovation"
-linktitle: "Talk 4a: Dr. Laura Condon"
+title: "1:20pm Room A - Hydrologic Modeling at the Continental Scale: Exploring the Role of Data Science in Discovery and Innovation"
+linktitle: "1:20 - Dr. Laura Condon"
 date: "2021-03-19"
 menu:
   sessions:

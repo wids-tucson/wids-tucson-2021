@@ -1,6 +1,6 @@
 ---
-title: "Meta-analysis of Transcranial Magnetic Stimulation Studies in Neurodegenerative Disorders"
-linktitle: "Talk 2a: Dr. Ying-hui Chou"
+title: "10:10am Room A - Meta-analysis of Transcranial Magnetic Stimulation Studies in Neurodegenerative Disorders"
+linktitle: "10:10 - Dr. Ying-hui Chou"
 date: "2021-03-19"
 menu:
   sessions:

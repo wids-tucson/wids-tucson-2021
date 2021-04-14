@@ -1,6 +1,6 @@
 ---
-title: "Big messy data in pollinator conservation and climate change"
-linktitle: "Talk 2b: Dr. Kathleen Prudic"
+title: "10:10am Room B - Big messy data in pollinator conservation and climate change"
+linktitle: "10:10 - Dr. Kathleen Prudic"
 date: "2021-03-29"
 menu:
   sessions:

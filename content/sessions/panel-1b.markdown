@@ -1,6 +1,6 @@
 ---
-title: "Balance: Work/life/pandemic balance (past, present, and future struggles)"
-linktitle: "Morning Panel B on Balance"
+title: "11:20am Room B - Balance: Work/life/pandemic balance"
+linktitle: "11:20 - Panel on Balance"
 date: "2021-03-19"
 menu:
   sessions:

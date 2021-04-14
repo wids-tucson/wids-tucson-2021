@@ -1,6 +1,6 @@
 ---
-title: "The Role of Data Science in COVID-19 Projection"
-linktitle: "Talk 1b: Dr.  Lily Wang"
+title: "9:50am Room B - The Role of Data Science in COVID-19 Projection"
+linktitle: "9:50 - Dr.  Lily Wang"
 date: "2021-03-19"
 menu:
   sessions:

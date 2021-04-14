@@ -1,6 +1,6 @@
 ---
-title: "Strategies in Visualizing Networks"
-linktitle: "Talk 4b: Dr. Kate Isaacs"
+title: "1:20pm Room B - Strategies in Visualizing Networks"
+linktitle: "1:20 - Dr. Kate Isaacs"
 date: "2021-04-04"
 menu:
   sessions:

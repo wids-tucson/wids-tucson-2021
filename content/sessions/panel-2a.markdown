@@ -1,6 +1,6 @@
 ---
-title: "Panel on Industry skills: Transferable skills for industry"
-linktitle: "Afternoon Panel A on Industry skills"
+title: "2:35pm Room A - Panel on Transferable skills for industry"
+linktitle: "2:35 - Panel on Industry skills"
 date: "2021-04-14"
 menu:
   sessions:

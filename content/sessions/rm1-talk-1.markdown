@@ -1,6 +1,6 @@
 ---
-title: "Subtask Analysis of Process Data Through a Predictive Model"
-linktitle: "Talk 1a: Dr. Xueying Tang"
+title: "9:50am Room A - Subtask Analysis of Process Data Through a Predictive Model"
+linktitle: "9:50 - Dr. Xueying Tang"
 date: "2021-03-19"
 menu:
   sessions:

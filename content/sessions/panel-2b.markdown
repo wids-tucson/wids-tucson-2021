@@ -1,6 +1,6 @@
 ---
-title: "Panel on the Leaky pipeline: Data science leaky pipeline"
-linktitle: "Afternoon Panel B on Leaky pipeline"
+title: "2:35pm Room B - Panel on Data Science Leaky Pipeline"
+linktitle: "2:35 - Panel on Leaky Pipeline"
 date: "2021-03-19"
 menu:
   sessions:

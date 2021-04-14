@@ -1,6 +1,6 @@
 ---
-title: "CARE principles & data use and application"
-linktitle: "Talk 3b: Dr. Lydia Jennings"
+title: "1:00pm Room B - CARE principles & data use and application"
+linktitle: "1:00 - Dr. Lydia Jennings"
 date: "2021-03-29"
 menu:
   sessions:
