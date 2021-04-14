@@ -8,8 +8,18 @@
             <td align="right" style="width:20%;text-align:right">
                 <strong>{{ .date }}</strong></td>
             <td style="width:56%;text-align:left">{{ .title}}
-                    {{- if .detail1 }}<br><small>{{.detail1}}</small>{{- end }}
-                    {{- if .detail2 }}<br><small>{{.detail2}}</small>{{- end }}</td>
+                    {{- if .talkdetail1 }}<br><small>
+                        <a href="{{ .Site.baseurl }}/sessions/{{ .room1 }}/">{{.talkdetail1}}</a>
+                    </small>{{- end }}
+                    {{- if .talkdetail2 }}<br><small>
+                        <a href="{{ .Site.baseurl }}/sessions/{{ .room2 }}/">{{.talkdetail2}}</a>
+                    </small>{{- end }}
+                    {{- if .networkdetail1 }}<br><small>
+                        <a href="{{ .Site.baseurl }}/sessions/network-1/">{{.networkdetail1}}</a>
+                    </small>{{- end }}
+                    {{- if .networkdetail2 }}<br><small>
+                        <a href="{{ .Site.baseurl }}/sessions/network-1/">{{.networkdetail2}}</a>
+                    </small>{{- end }}</td>
 
             {{- if .header }}
             
@@ -20,8 +30,8 @@
             {{- else }}
 
             {{- if .room1 }}
-            <td align="center" style="width:8%;text-align:center"><a
-                    href="{{ .Site.baseurl }}/sessions/{{ .room1 }}/">
+            <td align="center" style="width:8%;text-align:center">
+                <a href="https://arizona.zoom.us/j/87931032397">
                     <i class="fas fa-user-friends fa-lg"></i></a></td>
             {{- else }}
             <td align="center" style="width:8%;text-align:center">
@@ -31,8 +41,8 @@
             {{- end }}
 
             {{- if .room2 }}
-            <td align="center" style="width:8%;text-align:center"><a
-                    href="{{ .Site.baseurl }}/sessions/{{ .room2 }}/">
+            <td align="center" style="width:8%;text-align:center">
+                <a href="https://arizona.zoom.us/j/85165390514">
                     <i class="fas fa-user-friends fa-lg"></i></a></td>
             {{- else }}
             <td align="center" style="width:8%;text-align:center">
