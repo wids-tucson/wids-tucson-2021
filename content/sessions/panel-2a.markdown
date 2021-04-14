@@ -73,12 +73,12 @@ chunk_output_type: console
   <!--- ################# Moderator############## --->
   <TR>
     <TD COLSPAN="2">
-      <h2>Moderator: Karen de La Rosa </h2>
+      <h2>Moderator: Karen De La Rosa </h2>
     </TD>
-    <TD ROWSPAN="4"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
+    <TD ROWSPAN="3"><img style="float: left;" src="/img/karen-delarosa.jpg" width="300" /></TD>
   </TR>
   <TR>
-    <TD ROWSPAN="3">
+    <TD ROWSPAN="2">
       Ph.D. Student <br>
       Applied Intercultural Arts Research GIDP (AIAR) <br>
       Data Science Ambassador, Graduate Interdisciplinary Programs (GIDP) <br>
@@ -87,11 +87,12 @@ chunk_output_type: console
     </TD>
   </TR>
   <TR>
-    <TD><i class="fa fa-link"></i> <a href="https://www.arizona.edu/am" target="_blank" rel="noopener">Website</a>
+    <TD><i class="fa fa-link"></i> <a href="https://datascience.arizona.edu/person/karen-de-la-rosa" target="_blank" rel="noopener">Website</a>
     </TD>
   </TR>
   <TR>
-    <TD COLSPAN="3">Speaker Bio Forthcoming</TD>
+    <TD COLSPAN="3">Karen De la Rosa is a Ph.D. student in the new Applied Intercultural Arts Research GIDP (AIAR) at UA. She has explored the relationship between music-related variables and behavioral phenomena using a wide range of procedures such as machine learning, R and Python analytics, sentiment analysis, linear models, content analysis, frequency distributions, mediator/moderator modeling analysis, and structural equations. Karen has presented at several conferences and has publications addressing these phenomena. She is currently working on machine learning models predicting music consumption behaviors and other related outcomes using business, health, media, and historical data. Karen is an R enthusiast and her professional interests include applications of machine learning algorithms in industry as well as data science applications in interdisciplinary settings.
+</TD>
   </TR>
 
 </TABLE>
