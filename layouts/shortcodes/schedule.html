@@ -13,23 +13,11 @@
 
             {{- if .header }}
             
-            <td style="width:8%;text-align:center" class="mid-table-header">Main</td>
-            <td style="width:8%;text-align:center" class="mid-table-header">Track A</td>
-            <td style="width:8%;text-align:center" class="mid-table-header">Track B</td>
-            <td style="width:8%;text-align:center" class="mid-table-header">Networking</td>
+            <td style="width:8%;text-align:center" class="mid-table-header">Room A</td>
+            <td style="width:8%;text-align:center" class="mid-table-header">Room B</td>
+            <td style="width:8%;text-align:center" class="mid-table-header">Gather.Town</td>
 
             {{- else }}
-            
-            {{- if .main }}
-            <td align="center" style="width:10%;text-align:center"><a
-                    href="{{ .Site.baseurl }}/sessions/{{ .main }}/">
-                    <i class="fas fa-users fa-lg"></i></a></td>
-            {{- else }}
-            <td align="center" style="width:10%;text-align:center">
-                <font color="f1f1f1">
-                    <i class="fas fa-users fa-lg"></i></font>
-            </td>
-            {{- end }}
 
             {{- if .room1 }}
             <td align="center" style="width:8%;text-align:center"><a

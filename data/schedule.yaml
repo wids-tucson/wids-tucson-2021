@@ -4,17 +4,17 @@ lessons:
 
   - title: 'Help Desk Opens on gather.town'
     date: "8:30 - 9:00"
-    main: "main-01"
+    room1: "main-01"
     bg: 1
 
   - title: 'Opening Remarks & Video'
     date: "9:00 - 9:15"
-    main: "main-02"
+    room1: "main-02"
     bg: 1
 
   - title: 'Keynote Speaker'
     date: "9:15 - 9:45"
-    main: "keynote"
+    room1: "keynote"
     detail1: "Dr. Sudha Ram - Leveraging Artificial Intelligence and Big Data to Create Value"
     bg: 1
 
@@ -45,7 +45,7 @@ lessons:
 
   - title: 'Morning Data Blitz'
     date: "10:35 - 11:20"
-    main: "data-blitz1"
+    room1: "data-blitz1"
     bg: 1
     
   - title: 'AM Concurrent Panel Discussions'
@@ -93,7 +93,7 @@ lessons:
     
   - title: 'Afternoon Data Blitz'
     date: "1:45 - 2:30"
-    main: "data-blitz2"
+    room1: "data-blitz2"
     bg: 1
 
   - title: 'Transition Time'
@@ -117,7 +117,7 @@ lessons:
 
   - title: 'Data Blitz Awards & Closing Remarks'
     date: "3:50 - 4:05"
-    main: "posterawards"
+    room1: "posterawards"
     bg: 1
 
   - title: 'Happy Hour'
