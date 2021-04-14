@@ -71,25 +71,16 @@ chunk_output_type: console
     <TD COLSPAN="2">
       <h2>Margaret Wilch</h2>
     </TD>
-    <TD ROWSPAN="3"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
+    <TD ROWSPAN="2"><img style="float: left;" src="/img/margaret-wilch.jpeg" width="300" /></TD>
   </TR>
   <TR>
-    <TD ROWSPAN="2">
-      Program Coordinator for BIOTECH <br>
-      Department of Mollecular and Cell Biology <br>
-      College of Science <br>
-      University of Arizona
-    </TD>
-  <TR>
-    <TD><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/margaret-wilch-b1853073/" target="_blank" rel="noopener">Linkedin</a>
+    <TD>
+      Director of Research <br>
+      Southern Arizona Research, Science and Engineering Foundation
     </TD>
   </TR>
   <TR>
-    <TD><i class="fa fa-link"></i> <a href="https://mcb.arizona.edu/profile/margaret-wilch" target="_blank" rel="noopener">Website</a>
-    </TD>
-  </TR>
-  <TR>
-    <TD COLSPAN="3">Speaker Bio</TD>
+    <TD COLSPAN="3">Margaret Wilch is currently Director of Research at the Southern Arizona Research, Science and Engineering Foundation (SARSEF), following a 26 -year teaching career at Tucson High Magnet School. Margaret received a Bachelor’s of Special Studies in Biology (Cornell College), MS General Biology (University of Arizona) and was awarded an Honorary Doctorate of Science (University of Arizona College of Science). Margaret provides educational outreach and support to high school teachers and students to engage in authentic research projects, helping students to identify tractable research questions and methodologies. High students are also paired with mentors through the SARSEF/UA Students Taking Advantage of Research (STAR) outreach lab at UArizona.</TD>
   </TR>
 
   <!--- #################Speaker 4############## --->
