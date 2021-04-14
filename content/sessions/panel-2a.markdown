@@ -1,7 +1,7 @@
 ---
 title: "Panel on Industry skills: Transferable skills for industry"
 linktitle: "Afternoon Panel A on Industry skills"
-date: "2021-03-19"
+date: "2021-04-14"
 menu:
   sessions:
     parent: Panels
