@@ -17,6 +17,9 @@ main:
   - name: "Sponsors and Organizers"
     url: /sponsors/
     weight: 6
+  - name: "Join the Community"
+    url: /join/
+    weight: 7
 
 sessions:
   - name: "Overview"
