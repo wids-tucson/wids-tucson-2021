@@ -25,7 +25,6 @@ This Tucson WIDS meeting aims to further build the community around women in Dat
 
 Women in the data science community are invited to present talks and posters on their projects. Anyone who is interested in attending the meeting is welcome and encouraged to do so. 
 
-There is no registration fee, but participants need to register by the deadline to allow for planning logistics. This meeting is virtual and will be hosted on gathertown and Zoom. Participants are encouraged to move between Zoom meetings and network in Gather Town to maximize their own experience.
 
 <!---{{% div flex-container %}}
   <div class="flex-child magenta">
@@ -38,4 +37,4 @@ WIDS 2021 is hosting a tshirt design contest for our WIDS 2022 event. More infor
   </div>
 {{% /div %}}--->
 
-There is no registration fee, but participants need to register by the deadline to allow for planning logistics. This meeting is virtual and will be hosted on gathertown and Zoom. Participants are encouraged to move between Zoom meetings and network in Gather Town to maximize their own experience.
+There is no registration fee, but participants need to register by **April 20th, 2021 at 12pm MST** to allow for planning logistics. This meeting is virtual and will be hosted on gathertown and Zoom. Participants are encouraged to move between Zoom meetings and network in Gather Town to maximize their own experience.
