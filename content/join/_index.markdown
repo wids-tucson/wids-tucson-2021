@@ -13,8 +13,9 @@ WiDS Tucson would not be possible without the amazing data science community at 
 - Find specific resources for data management, data science & visualization, and geospatial data at the [<b><i>UA Data Cooperative </b></i>](https://data.library.arizona.edu/)
 - Contact your [<b><i>data science ambassador</b></i>](https://datascience.arizona.edu/ambassadors) for discipline specific information
 - Better yet, if you're a graduate student you should [<b><i>apply to become a data science ambassador</b></i>](http://datascience.arizona.edu/ambassadors/data-science-ambassadors-program)  for your college! deadline May 1st
-
 - Join the UA Office of Digital Innovation and Stewardship's [<b><i>Data Management Listserv</b></i>](https://list.arizona.edu/sympa/info/data_management)
+- Join the [<b><i>UA WiDS listserv</b></i>](https://list.arizona.edu/sympa/info/datasci-women)
+- Join the [<b><i>UA Women in Stem listserv</b></i>](https://list.arizona.edu/sympa/info/womeninstem) 
 - Join the [<b><i>R-Ladies Tucson</b></i>](https://www.meetup.com/rladies-tucson-az/) if you love R, no matter your skill-level
 - Join the [<b><i>Tucson Python Meet-up</b></i>](https://www.meetup.com/Tucson-Python-Meetup/) if you love Python, no matter your skill-level
 
