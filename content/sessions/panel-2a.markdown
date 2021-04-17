@@ -23,8 +23,7 @@ chunk_output_type: console
   </TR>
   <TR>
     <TD ROWSPAN="3">
-      <li>Vice President, IBM Systems Lab Services and IBM Systems Technical Universities</li>
-      <li>Tucson, Arizona, Site Leader and New Mexico State Leader, IBM</li>
+      Vice President of IBM Global Technology Services, Arizona & New Mexico State Executive
     </TD>
     <TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/cksanche" target="_blank" rel="noopener"> @cksanche</a>
     </TD>
