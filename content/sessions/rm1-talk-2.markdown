@@ -1,7 +1,7 @@
 ---
 title: "10:10am Room A - Meta-analysis of Transcranial Magnetic Stimulation Studies in Neurodegenerative Disorders"
 linktitle: "10:10 - Dr. Ying-hui Chou"
-date: "2021-03-19"
+date: "2021-04-19"
 menu:
   sessions:
     parent: Concurrent Speakers
@@ -12,12 +12,9 @@ editor_options:
   chunk_output_type: console
 ---
 
-Talk Abstract forthcoming
-
+Alzheimer’s disease (AD) and Parkinson’s disease (PD) are the 2 most common neurodegenerative diseases worldwide. In recent years, a non-invasive brain stimulation approach, called “transcranial magnetic stimulation or TMS”, has been closely investigated to evaluate its potential to improve clinical symptoms of AD and PD. Accumulating studies investigating the effectiveness of TMS have yielded mixed results, possibly due to low statistical power and wide variation in treatment protocols. In this talk, I will show how we can integrate these findings with meta-analytic approach to account for methodological heterogeneity and more accurately estimate the therapeutic effects of TMS in AD and PD.
 
 <hr style="width: 100%; text-align: center; margin-left: 0;" />
-
-
 
 <TABLE class="bio-table">
 <TR>

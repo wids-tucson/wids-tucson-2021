@@ -1,7 +1,7 @@
 ---
 title: "2:35pm Room B - Panel on Data Science Leaky Pipeline"
 linktitle: "2:35 - Panel on Leaky Pipeline"
-date: "2021-03-19"
+date: "2021-04-19"
 menu:
   sessions:
     parent: Panels
@@ -87,27 +87,20 @@ chunk_output_type: console
 
   <TR>
     <TD COLSPAN="2">
-      <h2>Moderator: Jessica Graham </h2>
+      <h2>Moderator: Riley Wagner </h2>
     </TD>
-    <TD ROWSPAN="4"><img style="float: left;" src="https://widstucson.org/media/wids-logo.png" width="300" /></TD>
+    <TD ROWSPAN="3"><img style="float: left;" src="/img/riley-wagner.jpg" width="300" /></TD>
   </TR>
   <TR>
-    <TD ROWSPAN="3">
-      <li> Job Title, Affiliation</li>
-    </TD>
-    <TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/" target="_blank" rel="noopener"> @twitter handle</a>
-    </TD>
+    <TD ROWSPAN="2">Undergraduate Researcher, University of Arizona  </TD>
   </TR>
   <TR>
     <TD><i class="fab fa-linkedin"></i> <a href="www.linkedin.com/in/" target="_blank" rel="noopener">Linkedin</a>
     </TD>
   </TR>
+
   <TR>
-    <TD><i class="fa fa-link"></i> <a href="https://www.arizona.edu/am" target="_blank" rel="noopener">Website</a>
-    </TD>
-  </TR>
-  <TR>
-    <TD COLSPAN="3">Speaker Bio</TD>
+    <TD COLSPAN="3">Riley is a senior finishing her Bachelor of Science in Systems Engineering at The University of Arizona with a minor in Computer Science. As a student researcher in the department of Electrical and Computer Engineering she optimizes workflow for the curation of hardware solutions for scalable self-driving vehicle experiments. This work followed her participation in a Research Experience for Undergraduates (REU) in the same lab creating a programming language for elementary students to control a self-driving vehicle. Riley is also Vice President of University of Arizona’s Engineering Student Council, a former teaching assistant in the department of Computer Science, and a mentor for first year students in STEM in the Honors College. In 2017, she earned the Girl Scout Gold Award for creating K12 computer science education programs. </TD>
   </TR>
 
 </TABLE>
