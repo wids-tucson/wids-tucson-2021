@@ -2,9 +2,9 @@ lessons:
   - title: 'Morning Session'
     header: True
 
-  - title: 'Help Desk Opens on gather.town'
+  - title: 'Help Desks Open on gather.town'
     date: "8:30 - 9:00"
-    room1: "main-01"
+    network: "network-1"
     bg: 1
 
   - title: 'Opening Remarks & Video'
