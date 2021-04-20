@@ -112,4 +112,9 @@ toc: false
 <TR>
   <TD><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/lecote" target="_blank" rel="noopener">Linkedin</a></TD>
 </TR>
+<TD COLSPAN="3">
+Laleh Coté is a science educator and researcher. As an undergraduate she completed her B.A. in biology, and engaged in research at both Lawrence Berkeley National Laboratory (Berkeley Lab) and the University of California, San Francisco. She now works as a STEM Education Specialist in Workforce Development & Education at Berkeley Lab, and is a Ph.D. Candidate in the Graduate Group in Science & Mathematics Education (SESAME) at the University of California, Berkeley. Her work is centered around student outcomes and mentoring practices in science research experiences, with a special focus on students who have less access to these professional development opportunities. Her academic/career interests include assessments of teaching, mentoring, and learning in science; culture/community in science; and the impacts of COVID-19 on science research experiences. 
+</TD>
+
+
 </TABLE>

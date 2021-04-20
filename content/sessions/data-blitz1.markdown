@@ -31,7 +31,7 @@ toc: true
     </tr>
     <tr>
       <td> 10:40 </td>
-      <td> Probabilistically Modeling Mineralogy</td>
+      <td> Predicting Astronomical Transients</td>
       <td> Marina Kisley </td>
       <td> PhD Student,<br> Department of Computer Science,<br> University of Arizona </td>
     </tr>
