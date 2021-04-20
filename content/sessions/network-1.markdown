@@ -1,6 +1,6 @@
 ---
 title: "Networking Sessions"
-linktitle: "Networkring Sessions"
+linktitle: "Networking Sessions"
 date: "2021-03-19"
 menu:
   sessions:
