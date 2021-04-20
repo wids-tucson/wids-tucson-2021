@@ -12,7 +12,9 @@ editor_options:
   chunk_output_type: console
 ---
 
-Talk Abstract Forthcoming
+The current movement toward open data and open science does not fully engage with Indigenous Peoples rights and interests. Existing principles within the open data movement (e.g. FAIR: findable, accessible, interoperable, reusable) primarily focus on characteristics of data that will facilitate increased data sharing among entities while ignoring power differentials and historical contexts. The emphasis on greater data sharing alone creates a tension for Indigenous Peoples who are also asserting greater control over the application and use of Indigenous data and Indigenous Knowledge for collective benefit.
+
+This includes the right to create value from Indigenous data in ways that are grounded in Indigenous worldviews and realize opportunities within the knowledge economy. The CARE Principles for Indigenous Data Governance (eg: for the collective benefit, with the authority to control, carrying responsibility and ethics) are people and purpose-oriented, reflecting the crucial role of data in advancing Indigenous innovation and self-determination. These principles complement the existing FAIR principles encouraging open and other data movements to consider both people and purpose in their advocacy and pursuits. These principles, when implemented into data practices, ensure Indigenous Peoples’ rights and wellbeing are present at all stages of the data life cycle. 
 
 
 <hr style="width: 100%; text-align: center; margin-left: 0;" />
