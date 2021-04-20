@@ -54,7 +54,7 @@ toc: true
       <td>2:05</td>
       <td>Benchmark dose risk analysis with mixed-factor quantal data in environmental risk assessment</td>
       <td>Maria Sans-Fuentes</td>
-      <td>PhD Student,<br> Department of Mathematics,<br> University of Arizona</td>
+      <td>PhD Student,<br> GIDP Statistics and Data Science,<br> University of Arizona</td>
     </tr>
     <tr>
       <td>2:10</td>
