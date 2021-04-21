@@ -25,8 +25,7 @@ toc: false
     </TD>
   </TR>
   <TR>
-    <TD COLSPAN="3">I am a PhD candidate at the Department of Hydrology and Atmospheric Sciences. My research is mainly focused on hydrological conditions over drylands. As a mom of a 13-month old, I have been trying to balance work and life during
-      the pandemic. I am looking forward to learning from other women in data science and sharing my own experiences. </TD>
+    <TD COLSPAN="3">Liling Chang is a Ph.D. candidate at the Department of Hydrology and  Atmospheric Sciences at the University of Arizona. Her Ph.D. research is mainly focused on hydrological conditions over drylands. Her research involves analyzing remote sensing data and conducting model experiments. She is looking forward to learning from other women in data science and sharing her own experiences. </TD>
   </TR>
 
   <!--- #################Speaker 2############## --->
@@ -106,7 +105,7 @@ toc: false
   <TD ROWSPAN="3"><img style="float: left;" src="/img/laleh-cote.jpg" width="300" /></TD>
 </TR>
 <TR>
-  <TD ROWSPAN="2">Ph.D. Candidate<br> Univeristy of California, Berkeley</TD>
+  <TD ROWSPAN="2">Ph.D. Candidate<br> University of California, Berkeley</TD>
   <TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/LalehEsmaili" target="_blank" rel="noopener">@LalehEsmaili</a></TD>
 </TR>
 <TR>
