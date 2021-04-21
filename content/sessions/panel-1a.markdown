@@ -84,7 +84,7 @@ chunk_output_type: console
   </tr>
   <tr>
     <td COLSPAN="3">
-      SONJA LANEHART is Professor of Linguistics, Teaching, Learning, and Sociocultural Studies, and Africana Studies as well as a Faculty Fellow in the Graduate College at the University of Arizona. Her scholarship focuses on language, literacy, and education in African American communities; language and identity; sociolinguistics; and Black education from Black Feminisms, Critical Race Theory, and Intersectionality perspectives. She is particularly interested in African American Women’s Language and pushing the boundaries of research in sociolinguistics and language variation to be anti-racist, inclusive, diverse, and equitable in the fight for social and linguistic justice. Her publications include Sista, Speak! Black Women Kinfolk Talk about Language and Literacy (2002), African American Women’s Language: Discourse, Education, and Identity (ed., 2009), and The Oxford Handbook of African American Language (ed., 2015).
+      Sonja Lanehart is Professor of Linguistics, Teaching, Learning, and Sociocultural Studies, and Africana Studies as well as a Faculty Fellow in the Graduate College at the University of Arizona. Her scholarship focuses on language, literacy, and education in African American communities; language and identity; sociolinguistics; and Black education from Black Feminisms, Critical Race Theory, and Intersectionality perspectives. She is particularly interested in African American Women’s Language and pushing the boundaries of research in sociolinguistics and language variation to be anti-racist, inclusive, diverse, and equitable in the fight for social and linguistic justice. Her publications include <i>Sista, Speak! Black Women Kinfolk Talk about Language and Literacy</i> (2002), <i>African American Women’s Language: Discourse, Education, and Identity</i> (ed., 2009), and <i>The Oxford Handbook of African American Language</i> (ed., 2015).
     </td>
   </tr>
 
@@ -108,4 +108,8 @@ chunk_output_type: console
   <tr>
     <td><i class="fa fa-link"></i> <a href="https://elliotdoes.work/" target="_blank" rel="noopener">Website</a></td>
   </tr>
+  <tr>
+    <td COLSPAN="3">
+      Elliot Truslow is a PhD student at the University of Arizona School of Sociology. They study data justice, technology, surveillance, information, and law and society. Elliot is currently working on a project related to predictive policing in Chicago and another related to Smart Border technology and biometric surveillance. Prior to graduate school, they led delivery and implementation for the current iteration of HealthCare.Gov and worked as a business and systems analyst in the insurance industry.
+    </td>
 </TABLE>
