@@ -6,11 +6,11 @@ toc: true
 weight: 1
 type: docs
 ---
-# Gather.town Tutorial for WiDS Cambridge 2021
+# Gather.town Tutorial for WiDS Tucson 2021
 
 ![](/faq/gathertown.gif)
 
-Welcome to WiDS Cambridge 2021 on gather.town! The goal of gather.town is to "emulate" a
+Welcome to WiDS Tucson 2021 on gather.town! The goal of gather.town is to "emulate" a
 real-life conference. This means you control an avatar that moves around a virtual world. You
 interact with people by going up to them and speaking with them, and you interact with posters
 by walking up to them and looking at them.  
