@@ -1,22 +1,7 @@
 main:
-  - name: Register
-    url: "https://www.eventbrite.com/e/women-in-data-science-conference-university-of-arizona-tickets-142036283347"
-    weight: 1
-  - name: Program
-    url: /schedule/
-    weight: 2
-  - name: Speakers
-    url: /sessions/
-    weight: 3
-  - name: "Gather.Town FAQ"
-    url: /faq/
-    weight: 4
   - name: "Code of Conduct"
     url: /conduct/
     weight: 5
-  - name: "Sponsors and Organizers"
-    url: /sponsors/
-    weight: 6
   - name: "Join the Community"
     url: /join/
     weight: 7
@@ -24,13 +9,3 @@ main:
 sessions:
   - name: "Overview"
     weight: 1
-  - name: "Keynote"
-    weight: 2
-  - name: "Concurrent Speakers"
-    weight: 3
-  - name: "Data Blitz"
-    weight: 4
-  - name: "Panels"
-    weight: 5
-  - name: "Networking"
-    weight: 6
