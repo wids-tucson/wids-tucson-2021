@@ -105,11 +105,11 @@ socials:
 
 event:
   time: "9:00 - 4:30 Arizona Time"
-  dates: "April 21, 2021"
-  copyrightYear: "2021"
-  year: "2021"
-  registerlink: "https://www.eventbrite.com/e/women-in-data-science-conference-university-of-arizona-tickets-142036283347"
-  registerdeadline: "April 20"
+  dates: "April 22, 2022"
+  copyrightYear: "2022"
+  year: "2022"
+  registerlink: ""
+  registerdeadline: "April 21"
   sourcecode: "wids-tucson/wids-tucson-2021"
 
 ############################
