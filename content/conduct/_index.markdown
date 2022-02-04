@@ -7,7 +7,7 @@ date: "2021-03-08"
 toc: true
 weight: 1
 ---
-The 2021 WIDS Meeting is an interactive environment for listening and considering new ideas from a diverse group, with respect for all participants without regard to gender, gender identity or expression, race, color, national or ethnic origin, religion or religious belief, age, marital status, sexual orientation, disabilities, veteran status, or any other aspect of how we identify ourselves. It is the policy of the WIDS Meeting that all participants will enjoy an environment free from all forms of discrimination, harassment, and retaliation.
+The 2022 WIDS Meeting is an interactive environment for listening and considering new ideas from a diverse group, with respect for all participants without regard to gender, gender identity or expression, race, color, national or ethnic origin, religion or religious belief, age, marital status, sexual orientation, disabilities, veteran status, or any other aspect of how we identify ourselves. It is the policy of the WIDS Meeting that all participants will enjoy an environment free from all forms of discrimination, harassment, and retaliation.
 
 ## Definition of Sexual Harassment:
 Sexual harassment refers to unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature. Behavior and language that are welcome/acceptable to one person may be unwelcome/offensive to another. Consequently, individuals must use discretion to ensure that their words and actions communicate respect for others. This is especially important for those in positions of authority since individuals with lower rank or status may be reluctant to express their objections or discomfort regarding unwelcome behavior.
