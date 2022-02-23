@@ -3,7 +3,7 @@ title: "9:00am Room A - Keynote by Gabriela de Queiroz"
 linktitle: "9:00 - Gabriela de Queiroz"
 date: "2022-02-22"
 menu:
-  sessions:
+  sessions_2022:
     parent: Keynote
     weight: 1
 type: docs
