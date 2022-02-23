@@ -3,7 +3,7 @@ main:
     url: /conduct/
     weight: 5
   - name: Speakers
-    url: /sessions/
+    url: /sessions_2022/
     weight: 3
   - name: "Join the Community"
     url: /join/
