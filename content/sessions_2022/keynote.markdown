@@ -35,7 +35,7 @@ toc: false
   </TR>
 </TABLE>
 
-Gabriela de Queiroz is a Chief Data Scientist at IBM leading AI Strategy and Innovations. She drives the AI adoption across existing and potential customers, lead outreach strategy across our open source ecosystem and data science community. Previously she was a Program Director working on Open Source, Data & AI Technologies at IBM..
+Gabriela de Queiroz is a Chief Data Scientist at IBM leading AI Strategy and Innovations. She drives the AI adoption across existing and potential customers, lead outreach strategy across our open source ecosystem and data science community. Previously she was a Program Director working on Open Source, Data & AI Technologies at IBM.
 
 She is the founder of AI Inclusive, a global organization that is helping increase the representation and participation of gender minorities in Artificial Intelligence. She is also the founder of R-Ladies, a worldwide organization for promoting diversity in the R community with more than 200 chapters in 55+ countries.
 
