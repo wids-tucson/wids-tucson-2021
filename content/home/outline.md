@@ -17,7 +17,7 @@ design:
 
 The Global WiDS Conference aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field. This one-day technical conference provides an opportunity to hear about the latest data science related research and applications in a number of domains, and connect with others in the field.
 
-WiDS Tucson is an independent event organized by the University of Arizona to coincide with the annual Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS regional events, which features outstanding women doing outstanding work. Students, faculty, or other Data Scientists identifying as female are invited to apply to present their research in our DataBlitz (3-minute lightning talks). <a href=" https://bit.ly/wids2022-data-blitz">Register for the DataBlitz </a> by March 14, 2022.
+WiDS Tucson is an independent event organized by the University of Arizona to coincide with the annual Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS regional events, which features outstanding women doing outstanding work. Students, faculty, or other Data Scientists identifying as female are invited to apply to present their research in our DataBlitz (3-minute lightning talks). <a href=" https://bit.ly/wids2022-data-blitz">Register for the DataBlitz </a> by March 25, 2022.
 
 {{< courseinfo >}}
 
