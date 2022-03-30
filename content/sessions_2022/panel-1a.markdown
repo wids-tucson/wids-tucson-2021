@@ -75,7 +75,7 @@ Kendra holds a master’s degree and doctorate in Sociology from the University 
       Data Analyst<br>
       UITS Student & Academic Technologies<br>
       University of Arizona</td>
-    <td><i class="fab fa-twitter"></i> <a href="https://twitter.com/jpark1917" target="_blank" rel="noopener"> @ohheyitselliot</a></td>
+    <td><i class="fab fa-twitter"></i> <a href="https://twitter.com/jpark1917" target="_blank" rel="noopener"> @jpark1917</a></td>
   </tr>
   <tr>
     <td><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jmp243/" target="_blank" rel="noopener">Linkedin</a></td>
