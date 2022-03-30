@@ -1,7 +1,7 @@
 ---
 title: Speakers & Sessions
 menu:
-  sessions:
+  sessions_2021:
     parent: Overview
     weight: 1
 type: docs
