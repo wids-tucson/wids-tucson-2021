@@ -13,25 +13,28 @@ toc: false
 
 <TABLE class="bio-table">
   <TR>
-    <TD COLSPAN="2">
+    <TD COLSPAN="2" width=65%>
       <h2>Gabriela de Queiroz</h2>
     </TD>
-    <TD ROWSPAN="4"><img style="float: left;" src="/img/gabriela-de-queiroz.jpg" width="300" /></TD>
+    <TD ROWSPAN="4" align=right><img style="float: left;" src="/img/gabriela-de-queiroz.jpg" width="300" /></TD>
   </TR>
   <TR>
     <TD ROWSPAN="3">
-      <li>Founder of AI Inclusive & R-Ladies </li>
-      <li>Chief Data Scientist @ IBM</li>
-      <li>Member of the R Foundation</li>
-      <li>People’s Choice Manager Excellence Award @ IBM</li>
+      <p>Founder of AI Inclusive & R-Ladies </br>
+      Chief Data Scientist @ IBM</br>
+      Member of the R Foundation</br>
+      People’s Choice Manager Excellence Award @ IBM</p>
+      <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gabrieladequeiroz/" target="_blank" rel="noopener">Linkedin</a><br>
+      <i class="fab fa-twitter"></i> <a href="https://twitter.com/gdequeiroz" target="_blank" rel="noopener"> @gdequeiroz</a> <br>
+      <i class="fa fa-link"></i> <a href="https://k-roz.com/" target="_blank" rel="noopener">Website</a> </p>
     </TD>
-    <TD><i class="fab fa-twitter"></i> <a href="https://twitter.com/gdequeiroz" target="_blank" rel="noopener"> @gdequeiroz</a>  </TD>
+    <TD></TD>
   </TR>
   <TR>
-    <TD><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/gabrieladequeiroz/" target="_blank" rel="noopener">Linkedin</a>   </TD>
+    <TD></TD>
   </TR>
   <TR>
-    <TD><i class="fa fa-link"></i> <a href="https://k-roz.com/" target="_blank" rel="noopener">Website</a> </TD>
+    <TD></TD>
   </TR>
 </TABLE>
 
