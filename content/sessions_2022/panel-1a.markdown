@@ -22,13 +22,16 @@ chunk_output_type: console
     <td ROWSPAN="3"><img style="float: left;" src="/img/karina-salazar.jpg" width="300" /></td>
   </tr>
   <tr>
-    <td ROWSPAN="2">Assistant Professor<br>Center for the Study of Higher Education<br>University of Arizona</li>
+    <td ROWSPAN="2">
+    <p>Assistant Professor<br>Center for the Study of Higher Education<br>University of Arizona</p>
+    <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/karina-salazar-9a303582" target="_blank" rel="noopener">Linkedin</a> <br>
+    <i class="fa fa-link"></i> <a href="https://coe.arizona.edu/person/karina-g-salazar" target="_blank" rel="noopener">Website</a>
     </td>
-    <td><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/karina-salazar-9a303582" target="_blank" rel="noopener">Linkedin</a>
+    <td>
     </td>
   </tr>
   <tr>
-    <td><i class="fa fa-link"></i> <a href="https://coe.arizona.edu/person/karina-g-salazar" target="_blank" rel="noopener">Website</a>
+    <td>
     </td>
   </tr>
   <tr>
@@ -46,11 +49,16 @@ chunk_output_type: console
     <td ROWSPAN="3"><img style="float: left;" src="/img/kendra-thompson-dyck.jpg" width="300" /></td>
   </tr>
   <tr>
-    <td ROWSPAN="2">Senior Research Analyst<br>Assessment & Researcg<br>University of Arizona</td>
-    <td><i class="fab fa-linkedin"></i> <a href=https://www.linkedin.com/in/natasha-warner-0a5050180/" target="_blank" rel="noopener">Linkedin</a></td>
+    <td ROWSPAN="2">
+    <p>Senior Research Analyst<br>Assessment & Researcg<br>University of Arizona</p>
+    <i class="fab fa-linkedin"></i> <a href=https://www.linkedin.com/in/natasha-warner-0a5050180/" target="_blank" rel="noopener">Linkedin</a><br>
+    <i class="fa fa-link"></i> <a href="https://nwarner.faculty.arizona.edu/" target="_blank" rel="noopener">Website</a>
+    </td>
+    
+    
   </tr>
   <tr>
-    <td><i class="fa fa-link"></i> <a href="https://nwarner.faculty.arizona.edu/" target="_blank" rel="noopener">Website</a></td>
+    <td></td>
   </tr>
   <tr>
     <td COLSPAN="3">
@@ -59,32 +67,36 @@ Kendra is an experienced applied researcher proficient in quantitative, qualitat
 Her authored and co-authored work appears in the Crime and Delinquency, Journal of Urban Affairs, Children and Youth Services Review, and Drug Court Review and has been featured at scholarly conferences and invited talks nationally and internationally including the International Sociological Association World Congress of Sociology in Yokohama, Japan and annual meetings of the American Sociological Association and Urban Affairs Association. 
 Kendra holds a master’s degree and doctorate in Sociology from the University of Arizona and a bachelor’s degree in Communication from Seattle Pacific University. 
    
-      </td>
+      
   </tr>
 
  
 
   <tr>
     <td COLSPAN="2">
-      <h2>Moderator: Jung Mee Park</h2>
+      <h2>Moderator: Laura Werthmann Dozal</h2>
     </td>
-    <td ROWSPAN="4"><img style="float: left;" src="/img/jung-mee-park.jpg" width="300" /></td>
+    
   </tr>
   <tr>
     <td ROWSPAN="3">
-      Data Analyst<br>
-      UITS Student & Academic Technologies<br>
-      University of Arizona</td>
-    <td><i class="fab fa-twitter"></i> <a href="https://twitter.com/jpark1917" target="_blank" rel="noopener"> @jpark1917</a></td>
+      PhD Student<br>
+      School of Information<br>
+      University of Arizona<br><br>
+      <i class="fa fa-link"></i> <a href="https://sites.google.com/site/jmp2114" target="_blank" rel="noopener">Website</a><br>
+      <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/laurawerthmann/" target="_blank" rel="noopener">Linkedin</a>
+      </td>
+      
   </tr>
   <tr>
-    <td><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jmp243/" target="_blank" rel="noopener">Linkedin</a></td>
+    <td></td>
   </tr>
   <tr>
-    <td><i class="fa fa-link"></i> <a href="https://sites.google.com/site/jmp2114" target="_blank" rel="noopener">Website</a></td>
+    <td><img style="float: left;" src="/img/laura-dozal.jpg" width="300" /></td>
   </tr>
+  
   <tr>
     <td COLSPAN="3">
-      Jung Mee Park is a sociologist, highly trained in qualitative and quantitative research methods. 
+      Laura W. Dozal is a PhD student at UofA's iSchool. Her recent work has focused on analyzing and visualizing network clusters to understand social behavior. Her methods in the past have been deep learning for Natural Language Processing applications of online crime and disinformation, as well as quantitative network analysis to identify community spaces. Her research specifically covers topics of gender equality movements in Latin America, community perception, and more recently, criminal organizations.
     </td>
 </TABLE>

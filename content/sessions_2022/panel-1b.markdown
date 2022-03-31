@@ -69,18 +69,18 @@ chunk_output_type: console
 
   <tr>
     <td COLSPAN="2">
-      <h2>Moderator: Laura Werthmann Dozal</h2>
+      <h2>Moderator: Jung Mee Park</h2>
     </td>
     <td ROWSPAN="4"><img style="float: left;" src="/img/jung-mee-park.jpg" width="300" /></td>
   </tr>
   <tr>
     <td ROWSPAN="3">
-      PhD Student<br>
-      School of Information<br>
+      Data Analyst<br>
+      UITS Student & Academic Technologies<br>
       University of Arizona</td>
   </tr>
   <tr>
-    <td><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/laurawerthmann/" target="_blank" rel="noopener">Linkedin</a></td>
+    <td><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jmp243/" target="_blank" rel="noopener">Linkedin</a></td>
   </tr>
   <tr>
     <td><i class="fa fa-link"></i> <a href="https://sites.google.com/site/jmp2114" target="_blank" rel="noopener">Website</a></td>
