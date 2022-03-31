@@ -23,5 +23,17 @@ sessions_2022:
     weight: 4
   - name: "Panels"
     weight: 5
+    
+sessions_2021:
+  - name: "Overview"
+    weight: 1
+  - name: "Keynote"
+    weight: 2
+  - name: "Concurrent Speakers"
+    weight: 3
+  - name: "Data Blitz"
+    weight: 4
+  - name: "Panels"
+    weight: 5
   - name: "Networking"
-    weight: 6
+    weight: 6 
