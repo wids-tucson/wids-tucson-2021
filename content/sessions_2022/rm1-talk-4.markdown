@@ -22,15 +22,14 @@ editor_options:
 <TD width=70%><h2>Dr. Dianne Patterson</h2></TD>
 
 <TD>
-<TD ROWSPAN="4"><img style="float: right;" src="/img/place-holder.png" width="250" /></TD>
+<TD ROWSPAN="4"><img style="float: right;" src="/img/dianne-patterson"/></TD>
 </TR>
 <TR>
 <TD ROWSPAN="3">
   <p>RII Neuroimaging Staff Scientist<br>
 Speech, Language and Hearing Sciences<br>
   University of Arizona</p>
-  <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/" target="_blank" rel="noopener">Linkedin</a><br>
-  <i class="fa fa-link"></i> <a href="" target="_blank" rel="noopener">Website</a><br>
+  <i class="fa fa-link"></i> <a href="https://bio5.org/people/dianne-k-patterson" target="_blank" rel="noopener">Website</a><br>
 </TD>
 <TD>
 </TD>
