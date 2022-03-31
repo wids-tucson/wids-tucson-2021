@@ -48,7 +48,7 @@ chunk_output_type: console
   </tr>
   <tr>
     <td ROWSPAN="2">
-      <p>Senior Research Analyst<br>Assessment & Researcg<br>University of Arizona</p>
+      <p>Associate Professor<br>Department of Mathematics<br>University of Arizona</p>
       <i class="fa fa-link"></i> <a href="https://www.math.arizona.edu/~lmig/" target="_blank" rel="noopener">Website</a>
     </td>
     
