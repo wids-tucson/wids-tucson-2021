@@ -1,6 +1,6 @@
 ---
-title: "11:20am Room A - Life and Work balance as a Data Scientist"
-linktitle: "11:20 - Panel on Life and Work balance as a Data Scientist"
+title: "11:20am Room B - Life and Work balance as a Data Scientist"
+linktitle: "11:20am - Panel on Life and Work balance as a Data Scientist"
 date: "2022-03-30"
 menu:
   sessions_2022:

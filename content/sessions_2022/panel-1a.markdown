@@ -1,6 +1,6 @@
 ---
 title: "11:20am Room A - Computational Social Sciences"
-linktitle: "11:20 - Panel on Computational Social Sciences"
+linktitle: "11:20am - Panel on Computational Social Sciences"
 date: "2022-03-30"
 menu:
   sessions_2022:

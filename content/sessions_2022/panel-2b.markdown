@@ -1,5 +1,5 @@
 ---
-title: "2:30pm Room A - Outreach in Data Science"
+title: "2:30pm Room B - Outreach in Data Science"
 linktitle: "2:30pm - Panel on Outreach in Data Science"
 date: "2022-03-31"
 menu:
