@@ -3,7 +3,7 @@ title: "11:20am Room A - Panel on Data Ethics"
 linktitle: "11:20 - Panel on Data Ethics"
 date: "2021-03-19"
 menu:
-  sessions:
+  sessions_2021:
     parent: Panels
     weight: 1
 type: docs

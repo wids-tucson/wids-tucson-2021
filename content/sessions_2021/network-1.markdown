@@ -3,7 +3,7 @@ title: "Networking Sessions"
 linktitle: "Networking Sessions"
 date: "2021-03-19"
 menu:
-  sessions:
+  sessions_2021:
     parent: Networking
     weight: 1
 type: docs

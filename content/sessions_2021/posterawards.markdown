@@ -3,7 +3,7 @@ title: "Awards & Closing Remarks"
 linktitle: "3:50 Awards"
 date: "2021-03-19"
 menu:
-  sessions:
+  sessions_2021:
     parent: Networking
     weight: 2
 type: docs

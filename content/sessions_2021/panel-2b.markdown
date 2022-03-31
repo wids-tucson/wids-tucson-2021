@@ -3,7 +3,7 @@ title: "2:35pm Room B - Panel on Data Science Leaky Pipeline"
 linktitle: "2:35 - Panel on Leaky Pipeline"
 date: "2021-04-19"
 menu:
-  sessions:
+  sessions_2021:
     parent: Panels
     weight: 4
 type: docs

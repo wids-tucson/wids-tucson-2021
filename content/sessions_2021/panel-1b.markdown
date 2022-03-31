@@ -3,7 +3,7 @@ title: "11:20am Room B - Balance: Work/life/pandemic balance"
 linktitle: "11:20 - Panel on Balance"
 date: "2021-04-19"
 menu:
-  sessions:
+  sessions_2021:
     parent: Panels
     weight: 2
 type: docs

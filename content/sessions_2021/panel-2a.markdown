@@ -3,7 +3,7 @@ title: "2:35pm Room A - Panel on Transferable skills for industry"
 linktitle: "2:35 - Panel on Industry skills"
 date: "2021-04-14"
 menu:
-  sessions:
+  sessions_2021:
     parent: Panels
     weight: 3
 type: docs
