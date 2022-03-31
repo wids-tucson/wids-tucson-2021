@@ -1,7 +1,7 @@
 ---
-title: "11:20am Room A - Data Science Industry"
-linktitle: "11:20 - Panel on Data Science Industry"
-date: "2022-03-30"
+title: "2:30pm Room A - Data Science Industry"
+linktitle: "2:30pm - Panel on Data Science Industry"
+date: "2022-03-31"
 menu:
   sessions:
     parent: Panels
@@ -17,7 +17,7 @@ chunk_output_type: console
   <!--- #################Speaker 1############## --->
   <tr>
     <td COLSPAN="2">
-      <h2>Dr. Karina Salazar</h2>
+      <h2>Jenn Schilling</h2>
     </td>
     <td ROWSPAN="3"><img style="float: left;" src="/img/karina-salazar.jpg" width="300" /></td>
   </tr>

@@ -8,6 +8,9 @@ main:
   - name: "Join the Community"
     url: /join/
     weight: 7
+  - name: "2021 Speakers"
+    url: /sessions_2021/
+    weight: 3
 
 sessions_2022:
   - name: "Overview"
