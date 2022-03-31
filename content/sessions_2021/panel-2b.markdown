@@ -1,5 +1,5 @@
 ---
-title: "2:35pm Room B - Panel on Data Science Leaky Pipeline"
+title: "2:35pm Room B - Leaky Pipeline"
 linktitle: "2:35 - Panel on Leaky Pipeline"
 date: "2021-04-19"
 menu:

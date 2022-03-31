@@ -23,7 +23,7 @@ chunk_output_type: console
   </tr>
   <tr>
     <td ROWSPAN="2">
-    <p>PhD Candidate | Senior Data Scientist Co-Op at IBM<br>Center for the Study of Higher Education<br>University of Arizona</p>
+    <p>PhD Candidate at the University of Arizona<br>Senior Data Scientist Co-Op at IBM</p>
     <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/kelseygonzalez/" target="_blank" rel="noopener">Linkedin</a><br>
     <i class="fa fa-link"></i> <a href="https://kelseygonzalez.github.io/" target="_blank" rel="noopener">Website</a> <br>
     <i class="fab fa-twitter"></i> <a href="https://twitter.com/kelseyegonzalez" target="_blank" rel="noopener"> @kelseyegonzalez</a>
@@ -92,7 +92,7 @@ Kelsey is a Certified RStudio Trainer and a Carpentries instructor. Locally, she
       </td>
   </tr>
  
- <!--- #################Speaker 3############## --->
+ <!--- #################Speaker 4############## --->
   <tr>
     <td COLSPAN="2">
       <h2>Sasha Lavrentovich</h2>
@@ -115,7 +115,7 @@ Kelsey is a Certified RStudio Trainer and a Carpentries instructor. Locally, she
   </tr>
 
 
- <!--- #################Speaker 3############## --->
+ <!--- ################# Moderator ############## --->
   <tr>
     <td COLSPAN="2">
       <h2>Moderator: Karen De la Rosa</h2>
