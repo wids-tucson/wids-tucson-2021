@@ -17,24 +17,30 @@ chunk_output_type: console
   <!--- #################Speaker 1############## --->
   <tr>
     <td COLSPAN="2">
-      <h2>Jenn Schilling</h2>
+      <h2>Kelsey Gonzalez</h2>
     </td>
     <td ROWSPAN="3"><img style="float: left;" src="/img/karina-salazar.jpg" width="300" /></td>
   </tr>
   <tr>
-    <td ROWSPAN="2">Assistant Professor<br>Center for the Study of Higher Education<br>University of Arizona</li>
+    <td ROWSPAN="2">PhD Candidate | Senior Data Scientist Co-Op at IBM<br>Center for the Study of Higher Education<br>University of Arizona</li>
     </td>
-    <td><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/karina-salazar-9a303582" target="_blank" rel="noopener">Linkedin</a>
+    <td><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/kelseygonzalez/" target="_blank" rel="noopener">Linkedin</a>
     </td>
   </tr>
   <tr>
-    <td><i class="fa fa-link"></i> <a href="https://coe.arizona.edu/person/karina-g-salazar" target="_blank" rel="noopener">Website</a>
+    <td><i class="fa fa-link"></i> <a href="https://kelseygonzalez.github.io/" target="_blank" rel="noopener">Website</a>
+    </td>
+  </tr>
+  <tr>
+    <td><i class="fab fa-twitter"></i> <a href="https://twitter.com/kelseyegonzalez" target="_blank" rel="noopener"> @kelseyegonzalez</a>
     </td>
   </tr>
   <tr>
     <td COLSPAN="3">
-      Karina Salazar is an assistant professor in the Center for the Study of Higher Education. Her research program analyzes whether the enrollment management practices of public universities undermine access for underserved student populations, with a particular focus on recruiting and marketing. Using “data science” methodologies and FOIA requests as data collection strategies, her current work explores how university recruiting and marketing efforts spatially discriminate against high schools and communities with predominantly low-income students and Students of Color. 
-      Salazar’s research has been published in The American Educational Research Journal, The Journal of Higher Education, and Research in Higher Education.  She is also co-principal investigator of the Enrollment Management, Recruiting, and Access research project, which has been featured by The New York Times, NPR, CNN, Inside Higher Ed, The Chronicle of Higher Education, Forbes, and U.S. News & World Report. Salazar is a local Tucsonan and proud graduate of Sunnyside High School. She completed her graduate work at the University of Arizona where her dissertation research was funded by the American Educational Research Association.
+      Kelsey Gonzalez is a PhD Candidate in the School of Sociology at the University of Arizona. Her academic research focuses on computational methods, advanced statistical methods, and social networks analysis in connection to interests in social networks, health behavior, diffusion, and communication technologies. Her dissertation focuses on how people search for information and rely on this information to inform their health behaviors and develop social norms, particularly during times of uncertainty.
+Kelsey is a Senior Data Scientist Co-op for the Chief Analytics office at IBM. In this role, she produces ML-driven insights to address questions for workforce management using unsupervised recommendation algorithms to provide IBM employees with actionable recommendations for reskilling. Upon defending herdissertation, she will join IBM as a full-time Senior Data Scientist. 
+Kelsey is a Certified RStudio Trainer and a Carpentries instructor. Locally, she is involved with data science education at the University of Arizona and previously was a Senior Data Science Ambassador for the College of Social and Behavioral Sciences and a Steering Committee member for Research Bazaar Arizona.
+
     </td>
   </tr>
 

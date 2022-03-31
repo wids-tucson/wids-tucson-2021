@@ -3,7 +3,7 @@ title: "11:20am Room A - Computational Social Sciences"
 linktitle: "11:20 - Panel on Computational Social Sciences"
 date: "2022-03-30"
 menu:
-  sessions:
+  sessions_2022:
     parent: Panels
     weight: 1
 type: docs

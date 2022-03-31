@@ -3,7 +3,7 @@ title: "11:20am Room A - Life as a Data Scientist"
 linktitle: "11:20 - Panel on Life as a Data Scientist"
 date: "2022-03-30"
 menu:
-  sessions:
+  sessions_2022:
     parent: Panels
     weight: 1
 type: docs
@@ -22,19 +22,21 @@ chunk_output_type: console
     <td ROWSPAN="3"><img style="float: left;" src="/img/kathryn-barger.jpg" width="300" /></td>
   </tr>
   <tr>
-    <td ROWSPAN="2">Biostatistics Associate Director<br>Biostatistics and Data Management Scientific Core Unit at the Jean Mayer USDA Human Nutrition Research Center on Aging<br>Tufts University</li>
+    <td ROWSPAN="2">
+    <p>Biostatistics Associate Director<br>Biostatistics and Data Management Scientific Core Unit at the Jean Mayer USDA Human Nutrition Research Center on Aging<br>Tufts University</p>
+    <i class="fa fa-link"></i> <a href="https://hnrca.tufts.edu/people/staff/kathryn-barger-phd" target="_blank" rel="noopener">Website</a>
+    </td>
   </tr>
   <tr>
-    <td><i class="fa fa-link"></i> <a href="https://hnrca.tufts.edu/people/staff/kathryn-barger-phd" target="_blank" rel="noopener">Website</a>
+    <td>
     </td>
   </tr>
   <tr>
     <td COLSPAN="3">
-      Kathryn Barger is the Biostatistics Associate Director in the Biostatistics and Data Management Scientific Core Unit at the Jean Mayer USDA Human Nutrition Research Center on Aging at Tufts University. Dr. Barger specializes in collaborative research for both clinical and pre-clinical studies in human nutrition and aging. For clinical studies, Dr. Barger provides statistical support across various experimental designs, including parallel RCTs, prospective longitudinal cohort studies, cross-sectional studies, crossover intervention trials, pilot trials, and meta-analyses. Dr. Barger has experience in factorial designs, dose-response designs, diet-induced disease, and knockout models for pre-clinical studies. As a study statistician, Dr. Barger oversees each study's statistical aspects and prioritizes the application of approaches that promote rigorous statistical practice to enhance scientific reproducibility and research integrity.
- 
-Dr. Barger received her PhD in Statistics from Cornell University, and after working as a statistician in the pharmaceutical industry went back to school to study culinary arts.  She received a Certificate in Patisserie and Baking from Le Cordon Bleu College of Culinary Arts and worked production in bakeries for several years.  She returned to statistics with her position at Tufts University.  She is interested in mentoring regarding career paths and professional development.
+      <p>Kathryn Barger is the Biostatistics Associate Director in the Biostatistics and Data Management Scientific Core Unit at the Jean Mayer USDA Human Nutrition Research Center on Aging at Tufts University. Dr. Barger specializes in collaborative research for both clinical and pre-clinical studies in human nutrition and aging. For clinical studies, Dr. Barger provides statistical support across various experimental designs, including parallel RCTs, prospective longitudinal cohort studies, cross-sectional studies, crossover intervention trials, pilot trials, and meta-analyses. Dr. Barger has experience in factorial designs, dose-response designs, diet-induced disease, and knockout models for pre-clinical studies. As a study statistician, Dr. Barger oversees each study's statistical aspects and prioritizes the application of approaches that promote rigorous statistical practice to enhance scientific reproducibility and research integrity.</p>
+      <p>Dr. Barger received her PhD in Statistics from Cornell University, and after working as a statistician in the pharmaceutical industry went back to school to study culinary arts.  She received a Certificate in Patisserie and Baking from Le Cordon Bleu College of Culinary Arts and worked production in bakeries for several years.  She returned to statistics with her position at Tufts University.  She is interested in mentoring regarding career paths and professional development.</p>
 
-    </td>
+    
   </tr>
 
   <!--- #################Speaker 2############## --->
@@ -45,11 +47,14 @@ Dr. Barger received her PhD in Statistics from Cornell University, and after wor
     <td ROWSPAN="3"><img style="float: left;" src="/img/LiseMarie-Imbertgerard.jpg" width="300" /></td>
   </tr>
   <tr>
-    <td ROWSPAN="2">Senior Research Analyst<br>Assessment & Researcg<br>University of Arizona</td>
+    <td ROWSPAN="2">
+      <p>Senior Research Analyst<br>Assessment & Researcg<br>University of Arizona</p>
+      <i class="fa fa-link"></i> <a href="https://www.math.arizona.edu/~lmig/" target="_blank" rel="noopener">Website</a>
+    </td>
     
   </tr>
   <tr>
-    <td><i class="fa fa-link"></i> <a href="https://www.math.arizona.edu/~lmig/" target="_blank" rel="noopener">Website</a></td>
+    <td></td>
   </tr>
   <tr>
     <td COLSPAN="3">
@@ -57,7 +62,7 @@ Dr. Barger received her PhD in Statistics from Cornell University, and after wor
   When she is not working, she enjoys traveling, (mountain) biking, playing classical guitar, reading or learning languages.
 
    
-      </td>
+
   </tr>
 
  

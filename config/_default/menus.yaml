@@ -1,16 +1,16 @@
 main:
   - name: "Code of Conduct"
     url: /conduct/
-    weight: 5
+    weight: 2
   - name: "Speakers"
     url: /sessions_2022/
-    weight: 3
+    weight: 1
   - name: "Join the Community"
     url: /join/
-    weight: 7
+    weight: 3
   - name: "2021 Speakers"
     url: /sessions_2021/
-    weight: 3
+    weight: 4
 
 sessions_2022:
   - name: "Overview"
