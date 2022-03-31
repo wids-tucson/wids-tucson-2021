@@ -22,7 +22,7 @@ editor_options:
 <TD width=70%><h2>Dr. Julia Fisher</h2></TD>
 
 <TD>
-<TD ROWSPAN="4"><img style="float: right;" src="/img/place-holder.png" width="250" /></TD>
+<TD ROWSPAN="4"><img style="float: right;" src="/img/julia-fisher.jpg" width="250" /></TD>
 </TR>
 <TR>
 <TD ROWSPAN="3">
