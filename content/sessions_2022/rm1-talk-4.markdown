@@ -1,5 +1,5 @@
 ---
-title: "1:25am Room A - Visual Representation of Quality Metrics"
+title: "1:25pm Room A - Visual Representation of Quality Metrics"
 linktitle: "1:25pm - Dr. Dianne Patterson"
 date: "2022-03-31"
 menu:
