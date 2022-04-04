@@ -1,6 +1,6 @@
 ---
 title: "10:10am Room A - TITLE"
-linktitle: "10:10am - Dr. Kathryn Duffy"
+linktitle: "10:10am - Dr. Katharyn Duffy"
 date: "2022-03-31"
 menu:
   sessions_2022:
