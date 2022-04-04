@@ -1,5 +1,5 @@
 ---
-title: "10:10am Room A - Data Science in the Pursuit of Precision Medicine in Warfarin Therapy "
+title: "10:10am Room B - Data Science in the Pursuit of Precision Medicine in Warfarin Therapy "
 linktitle: "10:10am - Heidi Steiner, PSM"
 date: "2022-03-31"
 menu:
