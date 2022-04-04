@@ -19,7 +19,7 @@ editor_options:
 
 <TABLE class="bio-table">
 <TR>
-<TD width=70%><h2>Dr. Kathryn Duffy</h2></TD>
+<TD width=70%><h2>Dr. Katharyn Duffy</h2></TD>
 
 <TD>
 <TD ROWSPAN="4"><img style="float: right;" src="/img/place-holder.png" width="250" /></TD>
