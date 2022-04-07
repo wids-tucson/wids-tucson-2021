@@ -97,7 +97,7 @@ chunk_output_type: console
       <p>Research Analyst<br>
       UITS - Trellis
       <br>University of Arizona</p>
-      <i class="fa fa-link"></i> <a href="https://lifework.arizona.edu/person/cindy-davis-mph-rdn" target="_blank" rel="noopener">Website</a>
+      <i class="fa fa-link"></i> <a href="https://datascience.arizona.edu/person/frances-miller" target="_blank" rel="noopener">Website</a>
     </td>
     
   </tr>
