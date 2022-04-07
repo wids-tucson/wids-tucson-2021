@@ -2,7 +2,7 @@ main:
   - name: "Code of Conduct"
     url: /conduct/
     weight: 2
-  - name: "Speakers"
+  - name: "2022 Speakers"
     url: /sessions_2022/
     weight: 1
   - name: "Join the Community"

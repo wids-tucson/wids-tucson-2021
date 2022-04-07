@@ -23,7 +23,7 @@ chunk_output_type: console
   </tr>
   <tr>
     <td ROWSPAN="2">
-    <p>PhD Candidate at the University of Arizona<br>Senior Data Scientist Co-Op at IBM</p>
+    <p>PhD Candidate at the University of Arizona<br>Senior Data Scientist at IBM</p>
     <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/kelseygonzalez/" target="_blank" rel="noopener">Linkedin</a><br>
     <i class="fa fa-link"></i> <a href="https://kelseygonzalez.github.io/" target="_blank" rel="noopener">Website</a> <br>
     <i class="fab fa-twitter"></i> <a href="https://twitter.com/kelseyegonzalez" target="_blank" rel="noopener"> @kelseyegonzalez</a>
@@ -72,7 +72,7 @@ Kelsey is a Certified RStudio Trainer and a Carpentries instructor. Locally, she
    <!--- #################Speaker 3############## --->
   <tr>
     <td COLSPAN="2">
-      <h2>Joana da Trindade</h2>
+      <h2>Joana M. F. da Trindade</h2>
     </td>
     <td ROWSPAN="3"><img style="float: left;" src="/img/joana-da-trindade.png" width="300" /></td>
   </tr>
@@ -88,7 +88,7 @@ Kelsey is a Certified RStudio Trainer and a Carpentries instructor. Locally, she
   </tr>
   <tr>
     <td COLSPAN="3">
-      Joana da Trindade is a PhD student in EECS at MIT, working with Prof. Sam Madden and Prof. Julian Shun at MIT's Data Systems Group.  Her research interests revolve around performance aspects of data processing systems, primarily focusing on query optimization and performance techniques for large-scale temporal graph data management. Before MIT she spent some time in industry as a software engineer (Bloomberg and Google) after completing an M.S. in CS from UIUC, and a B.S. in CS from UFRGS, in Brazil.  During her PhD she has collaborated with folks at Microsoft Research New York, Microsoft Gray Systems Lab, and is currently collaborating with Intel's Optane Group with the goal of making better use of NVRAM for temporal graph analytics.  She's also very fortunate to be supported by an Alfred P. Sloan UCEM PhD Fellowship and a Microsoft Research PhD fellowship.
+      Joana M. F. da Trindade is a PhD student in EECS at MIT, working with Prof. Sam Madden and Prof. Julian Shun at MIT's Data Systems Group.  Her research interests revolve around performance aspects of data processing systems, primarily focusing on query optimization and performance techniques for large-scale temporal graph data management. Before MIT she spent some time in industry as a software engineer (Bloomberg and Google) after completing an M.S. in CS from UIUC, and a B.S. in CS from UFRGS, in Brazil.  During her PhD she has collaborated with folks at Microsoft Research New York, Microsoft Gray Systems Lab, and is currently collaborating with Intel's Optane Group with the goal of making better use of NVRAM for temporal graph analytics.  She's also very fortunate to be supported by an Alfred P. Sloan UCEM PhD Fellowship and a Microsoft Research PhD fellowship.
       </td>
   </tr>
  
