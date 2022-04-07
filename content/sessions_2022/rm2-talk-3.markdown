@@ -27,8 +27,6 @@ editor_options:
 <TR>
 <TD ROWSPAN="3">
   <p>Assistant Professor<br>Mining and Geological Engineering Department<br>University of Arizona</p>
-  <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener">Linkedin</a><br>
-  <i class="fa fa-link"></i> <a href="" target="_blank" rel="noopener">Website</a><br>
 </TD>
 <TD>
 </TD>
