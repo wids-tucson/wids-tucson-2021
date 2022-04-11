@@ -12,7 +12,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-<p>TALK ABSTRACT</p>
+<p>A challenge in studies of neural network connectivity differences between two populations is to understand simultaneously both individual connectivity differences and larger-scale network connectivity differences.  Because of the nature of neuroimaging data, such investigations can suffer from a massive multiple comparisons problem.  Even parcelling the brain into a series of regions of interest and examining connectivity between regions can quickly result in tens of thousands of tests.  The network-based statistic (NBS) method (Zalesky et al. 2010) was developed to capitalize on network connectivity information to determine statistical significance but at the cost of understanding differences in individual connections.  A variation on this — threshold-free NBS (Baggio et al. 2017) — was developed to leverage group connectivity while still allowing inference on individual connections.  This method, however, loses the relationships between connections that result from an NBS analysis.  The current work-in-progress aims to develop an analysis that reinstates the network information lost in threshold-free NBS.  As part of this work, I have developed a method for simulating resting-state fMRI data for two groups of subjects with specific connectivity differences between the groups.  Such simulations are helpful in better understanding the method and its performance in a range of scenarios.  In this talk, I will discuss the simulation approach and the current stage of analysis development.</p>
 
 <hr style="width: 100%; text-align: center; margin-left: 0;" />
 

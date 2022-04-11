@@ -23,8 +23,10 @@ sessions_2022:
     weight: 4
   - name: "Panels"
     weight: 5
-  - name: "Closing"
+  - name: "Breaks"
     weight: 6
+  - name: "Closing"
+    weight: 7
     
 sessions_2021:
   - name: "Overview"
