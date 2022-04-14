@@ -1,5 +1,5 @@
 ---
-title: "1:25pm Room B - TALK TITLE"
+title: "1:25pm Room B - Simultaneously Understanding Individual Connection and Neural Network Differences Between Groups:  Simulation Pipeline and Algorithm Development"
 linktitle: "1:25pm - Dr. Julia Fisher"
 date: "2022-03-31"
 menu:

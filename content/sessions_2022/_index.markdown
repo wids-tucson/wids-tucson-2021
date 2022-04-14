@@ -123,7 +123,7 @@ Navigate through tabs on the left sidebar to find out more information on the sp
     </tr>
     <tr>
       <td>1:25pm to 1:40pm</td>
-      <td>TITLE
+      <td>Simultaneously Understanding Individual Connection and Neural Network Differences Between Groups:  Simulation Pipeline and Algorithm Development
 </td>
       <td>Julia Fisher</td>
       <td><a href="https://arizona.zoom.us/j/85853369180">Room B: https://arizona.zoom.us/j/85853369180</a></td>

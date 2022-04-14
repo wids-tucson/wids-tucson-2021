@@ -51,8 +51,7 @@ chunk_output_type: console
   <tr>
     <td ROWSPAN="2">
     <p>Senior Research Analyst<br>Assessment & Research<br>University of Arizona</p>
-    <i class="fab fa-linkedin"></i> <a href=https://www.linkedin.com/in/natasha-warner-0a5050180/" target="_blank" rel="noopener">Linkedin</a><br>
-    <i class="fa fa-link"></i> <a href="https://nwarner.faculty.arizona.edu/" target="_blank" rel="noopener">Website</a>
+    <i class="fa fa-link"></i> <a href="https://sirow.arizona.edu/people/kendra-thompson-dyck" target="_blank" rel="noopener">Website</a>
     </td>
     
     
@@ -70,7 +69,54 @@ Kendra holds a master’s degree and doctorate in Sociology from the University 
       
   </tr>
 
- 
+  <!--- #################Speaker 3############## --->
+  <tr>
+    <td COLSPAN="2">
+      <h2>Dr. Beth Tellman</h2>
+    </td>
+    <td ROWSPAN="3"><img style="float: left;" src="/img/beth-tellman.jpg" width="300" /></td>
+  </tr>
+  <tr>
+    <td ROWSPAN="2">
+    <p>Assistant Professor<br>School of Geography Development & Environment<br>University of Arizona</p>
+    <i class="fa fa-link"></i> <a href="https://beth-tellman.github.io/" target="_blank" rel="noopener">Website</a>
+    </td>
+    
+    
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td COLSPAN="3">
+      Dr. Beth Tellman is a human-environment geographer whose research addresses the causes and consequences of global environmental change on people, focusing on access to water, flood risk, and land-use change. She engages in multiple disciplines and methods to “socialize the pixel” or understand the social processes behind environmental change captured in satellite image pixels and leverage satellite data to improve human well-being. Beth is an Assistant Professor at the University of Arizona in the School of Geography, Development, and Environment. She is co-founder and Chief Science Officer at Cloud to Street, a public benefit corporation that leverages remote sensing data to build flood monitoring and mapping systems for low- and middle-income countries and insurance companies. Beth received her Ph.D. in Geography (2019) from Arizona State University. She has held fellowships with Echoing Green, Fulbright, and the National Science Foundation. </td>
+   
+   </tr>
+   
+   
+
+     
+  <tr>
+    <td COLSPAN="2">
+      <h2>Cas Laskowski</h2>
+    </td>
+    <td ROWSPAN="3"><img style="float: left;" src="/img/cas-laskowski.jpg" width="300" /></td>
+  </tr>
+  <tr>
+    <td ROWSPAN="2">
+    <p>Associate Librarian<br>Head of Research, Data & Instruction<br>University of Arizona</p>
+    <i class="fa fa-link"></i> <a href="https://law.arizona.edu/cas-laskowski" target="_blank" rel="noopener">Website</a>
+    </td>
+    
+    
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td COLSPAN="3">
+      Cas Laskowski is veteran, librarian, gamer, teacher, Latina, techie, comic book nerd, and empiricist in perpetual beta. Currently the Head of Research, Data, & Instruction at the University of Arizona, she leverages her various skillsets to bolster faculty scholarship, train legal changemakers, and advocate for more inclusive work and learning spaces. She regularly writes and presents about the impact of technology on libraries and legal practice and was a founding fellow of the IDEA Institute on AI. Her areas of research interest include legal data infrastructures, A2J, ethical use of AI, and co-collaborative pedagogy that empower learners.</tr>
+
 
   <tr>
     <td COLSPAN="2">
