@@ -80,6 +80,8 @@ Navigate through tabs on the left sidebar to find out more information on the sp
       <td>Computational Social Sciences</td>
       <td>Karina Salazar<br>
       Kendra Thompson-Dyck<br>
+       Beth Tellman<br>
+       Cas Laskowski
       </td>
       <td><a href="https://arizona.zoom.us/j/82893028084">Room A: https://arizona.zoom.us/j/82893028084</a></td>
     </tr>
