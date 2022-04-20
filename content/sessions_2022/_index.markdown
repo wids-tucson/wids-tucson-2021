@@ -54,7 +54,7 @@ Navigate through tabs on the left sidebar to find out more information on the sp
     <tr>
       <td>10:10am to 10:25am</td>
       <td>TALK TITLE</td>
-      <td>Katharyn Duffy</td>
+      <td>Beth Tellman</td>
       <td><a href="https://arizona.zoom.us/j/82893028084">Room A: https://arizona.zoom.us/j/82893028084</a></td>
     </tr>
     <tr>
