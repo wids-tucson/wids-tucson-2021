@@ -96,7 +96,7 @@ Navigate through tabs on the left sidebar to find out more information on the sp
       <td><a href="https://arizona.zoom.us/j/85853369180">Room B: https://arizona.zoom.us/j/85853369180</a></td>
     </tr>
     <tr>
-      <td colspan="4"><b>LUNCH BREAK 11:20pm to 1:00pm</b></td>
+      <td colspan="4"><b>LUNCH BREAK 12:20pm to 1:00pm</b></td>
     </tr>
     <tr>
       <td colspan="4"><b>Concurrent Talks Afternoon 1</b></td>
