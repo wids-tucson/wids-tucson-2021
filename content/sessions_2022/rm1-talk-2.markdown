@@ -1,5 +1,5 @@
 ---
-title: "10:10am Room A - TITLE"
+title: "10:10am Room A - Mapping flood risk from space"
 linktitle: "10:10am - Dr. Beth Tellman"
 date: "2022-03-31"
 menu:
@@ -12,7 +12,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-<p>Talk abstract</p>
+<p>Floods affect more people than any other hazard, and the frequency and magnitude of exposure is growing with demographic and climatic changes. Yet the ability to predict and monitor floods from local to global scales remains a challenge and limits access to financial protection for vulnerable populations. The increasing availability, frequency, and spatio-temporal resolution of satellite data provides new opportunities to monitor floods locally and globally. Advances in cloud computing and machine learning techniques enable increasingly accurate flood event monitoring by fusing observations from multiple sensors. I will show how new methods and data enabled by machine learning, and satellites improve our ability to understand and adapt to flood risk from global to local scales. This talk will demonstrate how improved flood observations yield insight into where populations are moving into flood plains, inform decisions to relocate refugee camps, underpin innovative insurance schemes in Bangladesh, and monitor Monsoon floods right here in Pima County!</p>
 
 <hr style="width: 100%; text-align: center; margin-left: 0;" />
 
