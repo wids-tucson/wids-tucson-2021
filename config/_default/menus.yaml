@@ -8,12 +8,15 @@ main:
   - name: "2022 Speakers"
     url: /sessions_2022/
     weight: 1
+  - name: "Sponsors and Organizers"
+    url: /sponsors/
+    weight: 3
   - name: "Join the Community"
     url: /join/
-    weight: 3
+    weight: 4
   - name: "2021 Speakers"
     url: /sessions_2021/
-    weight: 4
+    weight: 5
 
 sessions_2022:
   - name: "Overview"
