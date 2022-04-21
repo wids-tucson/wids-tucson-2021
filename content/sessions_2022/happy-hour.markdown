@@ -1,6 +1,6 @@
 ---
 title: "Happy Hour"
-linktitle: "4:00pm Happy Hour"
+linktitle: "4:30pm Happy Hour"
 date: "2022-03-21"
 menu:
   sessions_2022:
@@ -10,4 +10,5 @@ type: docs
 toc: false
 ---
 
-TBA
+Happy hour will be held at Borderlands Brewing Company, 119 E Toole Ave, Tucson, AZ 85701, starting at 4:30pm.
+Please <a href="https://forms.gle/yGiRYW6jgqheyjRg7">fill out this form to RSVP.</a>
