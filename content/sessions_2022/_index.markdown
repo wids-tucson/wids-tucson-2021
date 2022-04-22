@@ -172,9 +172,9 @@ Navigate through tabs on the left sidebar to find out more information on the sp
       <td><a href="https://arizona.zoom.us/j/82893028084">Room A: https://arizona.zoom.us/j/82893028084</a></td>
     </tr>
     <tr>
-      <td>4:15pm</td>
+      <td>4:30pm</td>
       <td>Happy Hour</td>
-      <td>Place TBA
+      <td>Borderlands Brewing Company, 119 E Toole Ave, Tucson, AZ 85701
       </td>
       <td></td>
     </tr>
