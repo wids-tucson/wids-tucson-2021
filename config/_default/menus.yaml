@@ -1,12 +1,12 @@
 main:
   - name: "Register"
-    url: "https://www.eventbrite.com/e/women-in-data-science-wids-tucson-2022-event-tickets-313649773917"
+    url: "TBD"
     weight: 1
   - name: "Code of Conduct"
     url: /conduct/
     weight: 2
-  - name: "2022 Speakers"
-    url: /sessions_2022/
+  - name: "2023 Speakers"
+    url: /sessions_2023/
     weight: 1
   - name: "Sponsors and Organizers"
     url: /sponsors/
@@ -14,8 +14,8 @@ main:
   - name: "Join the Community"
     url: /join/
     weight: 4
-  - name: "2021 Speakers"
-    url: /sessions_2021/
+  - name: "2022 Speakers"
+    url: /sessions_2022/
     weight: 5
 
 sessions_2022:
