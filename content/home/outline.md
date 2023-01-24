@@ -37,7 +37,7 @@ WIDS 2021 is hosting a tshirt design contest for our WIDS 2022 event. More infor
   </div>
 {{% /div %}}--->
 
-There is no registration fee, but participants need to register by **April 21st, 2022 at 12pm MST** to allow for planning logistics. This meeting is virtual and will be hosted on Zoom. Participants are encouraged to move between Zoom meetings to maximize their own experience.
+There is no registration fee, but participants need to register by **April 20th, 2023 at 12pm MST** to allow for planning logistics. This meeting is virtual and will be hosted on Zoom. Participants are encouraged to move between Zoom meetings to maximize their own experience.
 
 <h3>This event has been sponsored by:</h3>
 <img src="img/ischool-logo.png" width=500>
